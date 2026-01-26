@@ -1,0 +1,370 @@
+#EXTM3U http-user-agent="IPTVSmartersPlayer" x-tvg-url="http://sirena.mare7.co/xmltv.php?username=veliero&password=240223"
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/vR7S6S8.png" group-title="!! INFO SCADENZA !!",--- SCADENZA: 27 FEBBRAIO 2026 ore 16:28 ---
+http://0.0.0.0
+
+
+#EXTINF:-1 tvg-id="" tvg-name="----- SKY CINEMA -----" tvg-logo="http://service.fullapple.me:80/images/31d52abda89527246184ec524330e337.png" group-title="Cinema",----- SKY CINEMA -----
+http://sirena.mare7.co:80/live/veliero/240223/22760.m3u8
+
+
+#EXTINF:-1 tvg-id="Sky.Cinema.Uno.it" tvg-name="Sky Cinema Uno FHD" tvg-logo="http://service.myvisio.life:80/images/8249e7837b2c603ca86f826b621cb763.png" group-title="Cinema",Sky Cinema Uno FHD
+http://sirena.mare7.co:80/live/veliero/240223/4496.m3u8
+#EXTINF:-1 tvg-id="Sky.Cinema.Uno.it" tvg-name="Sky Cinema Uno HD" tvg-logo="http://service.myvisio.life:80/images/d6e15abbac47edd29a81299ef791494e.png" group-title="Cinema",Sky Cinema Uno HD
+http://sirena.mare7.co:80/live/veliero/240223/48863.m3u8
+#EXTINF:-1 tvg-id="SkyCinemaUno.it" tvg-name="Sky Cinema Uno SD" tvg-logo="http://bs-update.ddns.net/Android/logos/skycinema-uno-hd.png" group-title="Sky Italia SD",Sky Cinema Uno SD
+http://sirena.mare7.co:80/live/veliero/240223/48947.m3u8
+#EXTINF:-1 tvg-id="SkyCinemaUnoPlus1.it" tvg-name="Sky Cinema Uno +1 FHD" tvg-logo="http://service.myvisio.life:80/images/bbb7a3c21c169a6bc0a6b2bf6736f29a.png" group-title="Cinema",Sky Cinema Uno +1 FHD
+http://sirena.mare7.co:80/live/veliero/240223/32108.m3u8
+#EXTINF:-1 tvg-id="SkyCinemaUnoPlus1.it" tvg-name="Sky Cinema Uno +1 HD" tvg-logo="http://service.myvisio.life:80/images/abc30362f77bb480c85fd29c96471896.png" group-title="Cinema",Sky Cinema Uno +1 HD
+http://sirena.mare7.co:80/live/veliero/240223/48662.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Sky Cinema Uno +1 SD" tvg-logo="http://bs-update.ddns.net/Android/logos/skycinema-uno+1-hd.png" group-title="Sky Italia SD",Sky Cinema Uno +1 SD
+http://sirena.mare7.co:80/live/veliero/240223/48948.m3u8
+#EXTINF:-1 tvg-id="Sky.Cinema.Uno.+24.it" tvg-name="Sky Cinema Uno +24 FHD" tvg-logo="http://service.fullapple.me:80/images/6fc402528bde38a87ef7d2a886d57cdd.png" group-title="Cinema",Sky Cinema Uno +24 FHD
+http://sirena.mare7.co:80/live/veliero/240223/9591.m3u8
+#EXTINF:-1 tvg-id="Sky.Cinema.Uno.+24.it" tvg-name="Sky Cinema Uno +24 HD" tvg-logo="http://service.fullapple.me:80/images/6fc402528bde38a87ef7d2a886d57cdd.png" group-title="Cinema",Sky Cinema Uno +24 HD
+http://sirena.mare7.co:80/live/veliero/240223/11.m3u8
+#EXTINF:-1 tvg-id="SkyCinemaUnoPlus24.it" tvg-name="Sky Cinema Uno +24 SD" tvg-logo="http://bs-update.ddns.net/Android/logos/skycinema-uno+24-hd.png" group-title="Sky Italia SD",Sky Cinema Uno +24 SD
+http://sirena.mare7.co:80/live/veliero/240223/48949.m3u8
+#EXTINF:-1 tvg-id="Sky.Cinema.Due.it" tvg-name="Sky Cinema Due FHD" tvg-logo="http://service.myvisio.life:80/images/34a75b839104afefea66f32a1ede63ba.png" group-title="Cinema",Sky Cinema Due FHD
+http://sirena.mare7.co:80/live/veliero/240223/9622.m3u8
+#EXTINF:-1 tvg-id="Sky.Cinema.Due.it" tvg-name="Sky Cinema Due HD" tvg-logo="http://service.myvisio.life:80/images/5452deb848fc85a2a0479ef1e0502bc1.png" group-title="Cinema",Sky Cinema Due HD
+http://sirena.mare7.co:80/live/veliero/240223/24885.m3u8
+#EXTINF:-1 tvg-id="SkyCinemaDue.it" tvg-name="Sky Cinema Due SD" tvg-logo="http://bs-update.ddns.net/Android/logos/skycinema-due-hd.png" group-title="Sky Italia SD",Sky Cinema Due SD
+http://sirena.mare7.co:80/live/veliero/240223/48950.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Sky Cinema Due +1 FHD" tvg-logo="http://service.myvisio.life:80/images/34a75b839104afefea66f32a1ede63ba.png" group-title="Cinema",Sky Cinema Due +1 FHD
+http://sirena.mare7.co:80/live/veliero/240223/48697.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Sky Cinema Due +1 HD" tvg-logo="http://service.fullapple.me:80/images/34a75b839104afefea66f32a1ede63ba.png" group-title="Cinema",Sky Cinema Due +1 HD
+http://sirena.mare7.co:80/live/veliero/240223/48676.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Sky Cinema Due +1 SD" tvg-logo="http://bs-update.ddns.net/Android/logos/skycinema-due-hd.png" group-title="Sky Italia SD",Sky Cinema Due +1 SD
+http://sirena.mare7.co:80/live/veliero/240223/48951.m3u8
+#EXTINF:-1 tvg-id="Sky.Cinema.Due.+24.it" tvg-name="Sky Cinema Due +24 FHD" tvg-logo="http://service.fullapple.me:80/images/1d20f8248fb6c6298e5cef2da2e2f53e.png" group-title="Cinema",Sky Cinema Due +24 FHD
+http://sirena.mare7.co:80/live/veliero/240223/29702.m3u8
+#EXTINF:-1 tvg-id="Sky.Cinema.Due.+24.it" tvg-name="Sky Cinema Due +24 HD" tvg-logo="http://service.fullapple.me:80/images/13056d320f07ace127aa8fc321c5316f.png" group-title="Cinema",Sky Cinema Due +24 HD
+http://sirena.mare7.co:80/live/veliero/240223/72.m3u8
+#EXTINF:-1 tvg-id="SkyCinemaDue+24.it" tvg-name="Sky Cinema Due +24 SD" tvg-logo="http://bs-update.ddns.net/Android/logos/skycinema-due+24-hd.png" group-title="Sky Italia SD",Sky Cinema Due +24 SD
+http://sirena.mare7.co:80/live/veliero/240223/48952.m3u8
+#EXTINF:-1 tvg-id="Sky.Cinema.Collection.it" tvg-name="Sky Cinema Collection FHD" tvg-logo="http://service.myvisio.life:80/images/ab43fe60d0172c42fea8e0b7b1f24269.png" group-title="Cinema",Sky Cinema Collection FHD
+http://sirena.mare7.co:80/live/veliero/240223/9595.m3u8
+#EXTINF:-1 tvg-id="Sky.Cinema.Collection.it" tvg-name="Sky Cinema Collection HD" tvg-logo="http://service.myvisio.life:80/images/06812b0391194efa06b65b8db5cf05c1.png" group-title="Cinema",Sky Cinema Collection HD
+http://sirena.mare7.co:80/live/veliero/240223/12.m3u8
+#EXTINF:-1 tvg-id="SkyCinemaCollection.it" tvg-name="Sky Cinema Collection SD" tvg-logo="http://bs-update.ddns.net/Android/logos/skycinema-collection-hd.png" group-title="Sky Italia SD",Sky Cinema Collection SD
+http://sirena.mare7.co:80/live/veliero/240223/48953.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Sky Cinema Collection +1 FHD" tvg-logo="http://service.fullapple.me:80/images/ab43fe60d0172c42fea8e0b7b1f24269.png" group-title="Cinema",Sky Cinema Collection +1 FHD
+http://sirena.mare7.co:80/live/veliero/240223/48682.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Sky Cinema Collection +1 HD" tvg-logo="http://service.myvisio.life:80/images/06812b0391194efa06b65b8db5cf05c1.png" group-title="Cinema",Sky Cinema Collection +1 HD
+http://sirena.mare7.co:80/live/veliero/240223/48681.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Sky Cinema Collection +1 SD" tvg-logo="http://bs-update.ddns.net/Android/logos/skycinema-collection-hd.png" group-title="Sky Italia SD",Sky Cinema Collection +1 SD
+http://sirena.mare7.co:80/live/veliero/240223/48954.m3u8
+#EXTINF:-1 tvg-id="Sky.Cinema.Family.it" tvg-name="Sky Cinema Family FHD" tvg-logo="http://service.myvisio.life:80/images/a07ac09b9a3373c8e72d47ef7eb4998a.png" group-title="Cinema",Sky Cinema Family FHD
+http://sirena.mare7.co:80/live/veliero/240223/9584.m3u8
+#EXTINF:-1 tvg-id="Sky.Cinema.Family.it" tvg-name="Sky Cinema Family HD" tvg-logo="http://service.myvisio.life:80/images/32aa625a23e731469115cbfe7b607b27.png" group-title="Cinema",Sky Cinema Family HD
+http://sirena.mare7.co:80/live/veliero/240223/13.m3u8
+#EXTINF:-1 tvg-id="SkyCinemaFamily.it" tvg-name="Sky Cinema Family SD" tvg-logo="http://bs-update.ddns.net/Android/logos/skycinema-family-hd.png" group-title="Sky Italia SD",Sky Cinema Family SD
+http://sirena.mare7.co:80/live/veliero/240223/48955.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Sky Cinema Family +1 FHD" tvg-logo="http://service.fullapple.me:80/images/a07ac09b9a3373c8e72d47ef7eb4998a.png" group-title="Cinema",Sky Cinema Family +1 FHD
+http://sirena.mare7.co:80/live/veliero/240223/48675.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Sky Cinema Family +1 HD" tvg-logo="http://service.myvisio.life:80/images/a07ac09b9a3373c8e72d47ef7eb4998a.png" group-title="Cinema",Sky Cinema Family +1 HD
+http://sirena.mare7.co:80/live/veliero/240223/48674.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Sky Cinema Family +1 SD" tvg-logo="http://bs-update.ddns.net/Android/logos/skycinema-family-hd.png" group-title="Sky Italia SD",Sky Cinema Family +1 SD
+http://sirena.mare7.co:80/live/veliero/240223/48956.m3u8
+#EXTINF:-1 tvg-id="Sky.Cinema.Suspense.it" tvg-name="Sky Cinema Suspense FHD" tvg-logo="http://service.myvisio.life:80/images/ce5fbe3779e6fe4024936f8806503cf4.png" group-title="Cinema",Sky Cinema Suspense FHD
+http://sirena.mare7.co:80/live/veliero/240223/9587.m3u8
+#EXTINF:-1 tvg-id="Sky.Cinema.Suspense.it" tvg-name="Sky Cinema Suspense HD" tvg-logo="http://service.myvisio.life:80/images/a873a04d7e25d29994f6603510c3277e.png" group-title="Cinema",Sky Cinema Suspense HD
+http://sirena.mare7.co:80/live/veliero/240223/24886.m3u8
+#EXTINF:-1 tvg-id="SkyCinemaSuspense.it" tvg-name="Sky Cinema Suspense SD" tvg-logo="http://bs-update.ddns.net/Android/logos/skycinema-supsense-hd.png" group-title="Sky Italia SD",Sky Cinema Suspense SD
+http://sirena.mare7.co:80/live/veliero/240223/48957.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Sky Cinema Suspense +1 FHD" tvg-logo="http://service.myvisio.life:80/images/ce5fbe3779e6fe4024936f8806503cf4.png" group-title="Cinema",Sky Cinema Suspense +1 FHD
+http://sirena.mare7.co:80/live/veliero/240223/48671.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Sky Cinema Suspense +1 HD" tvg-logo="http://service.myvisio.life:80/images/ce5fbe3779e6fe4024936f8806503cf4.png" group-title="Cinema",Sky Cinema Suspense +1 HD
+http://sirena.mare7.co:80/live/veliero/240223/48670.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Sky Cinema Suspense +1 SD" tvg-logo="http://bs-update.ddns.net/Android/logos/skycinema-supsense-hd.png" group-title="Sky Italia SD",Sky Cinema Suspense +1 SD
+http://sirena.mare7.co:80/live/veliero/240223/48958.m3u8
+#EXTINF:-1 tvg-id="Sky.Cinema.Romance.it" tvg-name="Sky Cinema Romance FHD" tvg-logo="http://service.myvisio.life:80/images/bac31918875ad82e82e480f9b274f842.png" group-title="Cinema",Sky Cinema Romance FHD
+http://sirena.mare7.co:80/live/veliero/240223/24743.m3u8
+#EXTINF:-1 tvg-id="Sky.Cinema.Romance.it" tvg-name="Sky Cinema Romance HD" tvg-logo="http://service.myvisio.life:80/images/b9a2528d08ff5780aa7253f5893d8034.png" group-title="Cinema",Sky Cinema Romance HD
+http://sirena.mare7.co:80/live/veliero/240223/71.m3u8
+#EXTINF:-1 tvg-id="SkyCinemaRomance.it" tvg-name="Sky Cinema Romance SD" tvg-logo="http://static.iptv-epg.com/it/SkyCinemaRomance.it.png" group-title="Sky Italia SD",Sky Cinema Romance SD
+http://sirena.mare7.co:80/live/veliero/240223/48959.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Sky Cinema Romance +1 FHD" tvg-logo="http://service.myvisio.life:80/images/bac31918875ad82e82e480f9b274f842.png" group-title="Cinema",Sky Cinema Romance +1 FHD
+http://sirena.mare7.co:80/live/veliero/240223/48673.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Sky Cinema Romance +1 HD" tvg-logo="http://service.myvisio.life:80/images/bac31918875ad82e82e480f9b274f842.png" group-title="Cinema",Sky Cinema Romance +1 HD
+http://sirena.mare7.co:80/live/veliero/240223/48672.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Sky Cinema Romance +1 SD" tvg-logo="http://bs-update.ddns.net/Android/logos/skycinema-romance-hd.png" group-title="Sky Italia SD",Sky Cinema Romance +1 SD
+http://sirena.mare7.co:80/live/veliero/240223/48960.m3u8
+#EXTINF:-1 tvg-id="Sky.Cinema.Drama.it" tvg-name="Sky Cinema Drama FHD" tvg-logo="http://service.myvisio.life:80/images/0b51fde0914f31605872eb147a2557ee.png" group-title="Cinema",Sky Cinema Drama FHD
+http://sirena.mare7.co:80/live/veliero/240223/32107.m3u8
+#EXTINF:-1 tvg-id="Sky.Cinema.Drama.it" tvg-name="Sky Cinema Drama HD" tvg-logo="http://service.myvisio.life:80/images/5761d53d73c9bb718f0b9805a184c23c.png" group-title="Cinema",Sky Cinema Drama HD
+http://sirena.mare7.co:80/live/veliero/240223/47.m3u8
+#EXTINF:-1 tvg-id="SkyCinemaDrama.it" tvg-name="Sky Cinema Drama SD" tvg-logo="http://bs-update.ddns.net/Android/logos/skycinema-drama-hd.png" group-title="Sky Italia SD",Sky Cinema Drama SD
+http://sirena.mare7.co:80/live/veliero/240223/48961.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Sky Cinema Drama +1 FHD" tvg-logo="http://service.myvisio.life:80/images/0b51fde0914f31605872eb147a2557ee.png" group-title="Cinema",Sky Cinema Drama +1 FHD
+http://sirena.mare7.co:80/live/veliero/240223/48678.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Sky Cinema Drama +1 HD" tvg-logo="http://service.myvisio.life:80/images/5761d53d73c9bb718f0b9805a184c23c.png" group-title="Cinema",Sky Cinema Drama +1 HD
+http://sirena.mare7.co:80/live/veliero/240223/48677.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Sky Cinema Drama +1 SD" tvg-logo="http://bs-update.ddns.net/Android/logos/skycinema-drama-hd.png" group-title="Sky Italia SD",Sky Cinema Drama +1 SD
+http://sirena.mare7.co:80/live/veliero/240223/48962.m3u8
+#EXTINF:-1 tvg-id="Sky.Cinema.Comedy.it" tvg-name="Sky Cinema Comedy FHD" tvg-logo="http://service.myvisio.life:80/images/276fe1a8a76d95533828912560f25dc6.png" group-title="Cinema",Sky Cinema Comedy FHD
+http://sirena.mare7.co:80/live/veliero/240223/24744.m3u8
+#EXTINF:-1 tvg-id="Sky.Cinema.Comedy.it" tvg-name="Sky Cinema Comedy HD" tvg-logo="http://service.myvisio.life:80/images/74a3f9f519021c6066bd3b4e1087cd58.png" group-title="Cinema",Sky Cinema Comedy HD
+http://sirena.mare7.co:80/live/veliero/240223/14.m3u8
+#EXTINF:-1 tvg-id="SkyCinemaComedy.it" tvg-name="Sky Cinema Comedy SD" tvg-logo="http://bs-update.ddns.net/Android/logos/skycinema-comedy-hd.png" group-title="Sky Italia SD",Sky Cinema Comedy SD
+http://sirena.mare7.co:80/live/veliero/240223/48963.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Sky Cinema Comedy +1 FHD" tvg-logo="http://service.fullapple.me:80/images/276fe1a8a76d95533828912560f25dc6.png" group-title="Cinema",Sky Cinema Comedy +1 FHD
+http://sirena.mare7.co:80/live/veliero/240223/48680.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Sky Cinema Comedy +1 HD" tvg-logo="http://service.myvisio.life:80/images/74a3f9f519021c6066bd3b4e1087cd58.png" group-title="Cinema",Sky Cinema Comedy +1 HD
+http://sirena.mare7.co:80/live/veliero/240223/48679.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Sky Cinema Comedy +1 SD" tvg-logo="http://bs-update.ddns.net/Android/logos/skycinema-comedy-hd.png" group-title="Sky Italia SD",Sky Cinema Comedy +1 SD
+http://sirena.mare7.co:80/live/veliero/240223/48964.m3u8
+#EXTINF:-1 tvg-id="Sky.Cinema.Action.it" tvg-name="Sky Cinema Action FHD" tvg-logo="http://service.myvisio.life:80/images/76d360ad31c9b9ed90c572e989254e47.png" group-title="Cinema",Sky Cinema Action FHD
+http://sirena.mare7.co:80/live/veliero/240223/9596.m3u8
+#EXTINF:-1 tvg-id="Sky.Cinema.Action.it" tvg-name="Sky Cinema Action HD" tvg-logo="http://service.myvisio.life:80/images/1e76c9d23763604ffe04a2eb1db974d8.png" group-title="Cinema",Sky Cinema Action HD
+http://sirena.mare7.co:80/live/veliero/240223/15.m3u8
+#EXTINF:-1 tvg-id="SkyCinemaAction.it" tvg-name="Sky Cinema Action SD" tvg-logo="http://bs-update.ddns.net/Android/logos/skycinema-action-hd.png" group-title="Sky Italia SD",Sky Cinema Action SD
+http://sirena.mare7.co:80/live/veliero/240223/48965.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Sky Cinema Action +1 FHD" tvg-logo="http://service.fullapple.me:80/images/5f93fe0f552d4cf82b90d85b2f9bef89.png" group-title="Cinema",Sky Cinema Action +1 FHD
+http://sirena.mare7.co:80/live/veliero/240223/32105.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Sky Cinema Action +1 HD" tvg-logo="http://service.myvisio.life:80/images/1e76c9d23763604ffe04a2eb1db974d8.png" group-title="Cinema",Sky Cinema Action +1 HD
+http://sirena.mare7.co:80/live/veliero/240223/48683.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Sky Cinema Action +1 SD" tvg-logo="http://bs-update.ddns.net/Android/logos/skycinema-action+1-hd.png" group-title="Sky Italia SD",Sky Cinema Action +1 SD
+http://sirena.mare7.co:80/live/veliero/240223/48966.m3u8
+#EXTINF:-1 tvg-id="Sky.Serie.it" tvg-name="Sky Serie FHD" tvg-logo="http://service.myvisio.life:80/images/ec016dc30ce56da2607ba59a6a92f180.png" group-title="Cinema",Sky Serie FHD
+http://sirena.mare7.co:80/live/veliero/240223/146835.m3u8
+#EXTINF:-1 tvg-id="Sky.Serie.it" tvg-name="Sky Serie HD" tvg-logo="http://service.myvisio.life:80/images/ec016dc30ce56da2607ba59a6a92f180.png" group-title="Cinema",Sky Serie HD
+http://sirena.mare7.co:80/live/veliero/240223/146834.m3u8
+#EXTINF:-1 tvg-id="SkySerie.it" tvg-name="Sky Series SD" tvg-logo="http://bs-update.ddns.net/Android/logos/skyserie.png" group-title="Sky Italia SD",Sky Series SD
+http://sirena.mare7.co:80/live/veliero/240223/146836.m3u8
+#EXTINF:-1 tvg-id="Comedy.Central.it" tvg-name="Sky Comedy Central FHD" tvg-logo="http://service.fullapple.me:80/images/f7029e67f22d8a43ab8d1b3deb896249.png" group-title="Cinema",Sky Comedy Central FHD
+http://sirena.mare7.co:80/live/veliero/240223/226821.m3u8
+#EXTINF:-1 tvg-id="Comedy.Central.it" tvg-name="Sky Comedy Central HD" tvg-logo="http://service.fullapple.me:80/images/f7029e67f22d8a43ab8d1b3deb896249.png" group-title="Cinema",Sky Comedy Central HD
+http://sirena.mare7.co:80/live/veliero/240223/294.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Sky Comedy Central SD" tvg-logo="http://bs-update.ddns.net/Android/logos/comedycentral.png" group-title="Sky Italia SD",Sky Comedy Central SD
+http://sirena.mare7.co:80/live/veliero/240223/48967.m3u8
+#EXTINF:-1 tvg-id="SkyUno.it" tvg-name="Sky Tg 24" tvg-logo="http://service.myvisio.life:80/images/c689dbffbeb4398ed2dba7b893bcf7e7.png" group-title="Italia",Sky Tg 24
+http://sirena.mare7.co:80/live/veliero/240223/112.m3u8
+
+
+#EXTINF:-1 tvg-id="" tvg-name="----- INTRATTENIMENTO -----" tvg-logo="http://service.fullapple.me:80/images/31d52abda89527246184ec524330e337.png" group-title="Intrattenimento",----- INTRATTENIMENTO -----
+http://sirena.mare7.co:80/live/veliero/240223/22761.m3u8
+
+
+#EXTINF:-1 tvg-id="SkyUno.it" tvg-name="Sky Uno FHD" tvg-logo="http://service.myvisio.life:80/images/7d2cdef839ec8d6e328078930a3515b6.png" group-title="Intrattenimento",Sky Uno FHD
+http://sirena.mare7.co:80/live/veliero/240223/24746.m3u8
+#EXTINF:-1 tvg-id="SkyUno.it" tvg-name="Sky Uno HD" tvg-logo="http://service.myvisio.life:80/images/7d2cdef839ec8d6e328078930a3515b6.png" group-title="Intrattenimento",Sky Uno HD
+http://sirena.mare7.co:80/live/veliero/240223/48.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Sky Uno SD" tvg-logo="http://bs-update.ddns.net/Android/logos/skyuno-hd.png" group-title="Sky Italia SD",Sky Uno SD
+http://sirena.mare7.co:80/live/veliero/240223/49704.m3u8
+#EXTINF:-1 tvg-id="SkyUnoPlus1.it" tvg-name="Sky Uno +1 FHD" tvg-logo="http://service.fullapple.me:80/images/c689dbffbeb4398ed2dba7b893bcf7e7.png" group-title="Intrattenimento",Sky Uno +1 FHD
+http://sirena.mare7.co:80/live/veliero/240223/48663.m3u8
+#EXTINF:-1 tvg-id="CartoonNetwork.it" tvg-name="Sky Uno +1 HD" tvg-logo="http://service.fullapple.me:80/images/7d2cdef839ec8d6e328078930a3515b6.png" group-title="Intrattenimento",Sky Uno +1 HD
+http://sirena.mare7.co:80/live/veliero/240223/73.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Sky Uno +1 SD" tvg-logo="http://bs-update.ddns.net/Android/logos/skyuno+1-hd.png" group-title="Sky Italia SD",Sky Uno +1 SD
+http://sirena.mare7.co:80/live/veliero/240223/49705.m3u8
+#EXTINF:-1 tvg-id="SkyAtlantic.it" tvg-name="Sky Atlantic FHD" tvg-logo="http://service.myvisio.life:80/images/d6ab7f52497ab778418dc7ad46d48371.png" group-title="Intrattenimento",Sky Atlantic FHD
+http://sirena.mare7.co:80/live/veliero/240223/9589.m3u8
+#EXTINF:-1 tvg-id="SkyAtlantic.it" tvg-name="Sky Atlantic HD" tvg-logo="http://service.myvisio.life:80/images/d6ab7f52497ab778418dc7ad46d48371.png" group-title="Intrattenimento",Sky Atlantic HD
+http://sirena.mare7.co:80/live/veliero/240223/18.m3u8
+#EXTINF:-1 tvg-id="SkyAtlantic.it" tvg-name="Sky Atlantic SD" tvg-logo="http://servicelocandine.goldsecurepro.com:8000/images/2d1b1db4274db5a842bfa78d131eccb2.png" group-title="Sky Italia SD",Sky Atlantic SD
+http://sirena.mare7.co:80/live/veliero/240223/49706.m3u8
+#EXTINF:-1 tvg-id="SkyAtlanticPlus1.it" tvg-name="Sky Atlantic +1 FHD" tvg-logo="http://service.fullapple.me:80/images/f135e0bbb4f8c3b7f483451122f47cc7.png" group-title="Intrattenimento",Sky Atlantic +1 FHD
+http://sirena.mare7.co:80/live/veliero/240223/48686.m3u8
+#EXTINF:-1 tvg-id="SkyCinemaUno.it" tvg-name="Sky Atlantic +1 HD" tvg-logo="http://service.fullapple.me:80/images/d6ab7f52497ab778418dc7ad46d48371.png" group-title="Intrattenimento",Sky Atlantic +1 HD
+http://sirena.mare7.co:80/live/veliero/240223/48685.m3u8
+#EXTINF:-1 tvg-id="SkyAtlanticPlus1.it" tvg-name="Sky Atlantic +1 SD" tvg-logo="http://bs-update.ddns.net/Android/logos/skyatlantic+1-hd.png" group-title="Sky Italia SD",Sky Atlantic +1 SD
+http://sirena.mare7.co:80/live/veliero/240223/49707.m3u8
+#EXTINF:-1 tvg-id="SkyInvestigation.it" tvg-name="Sky Investigation FHD" tvg-logo="http://service.myvisio.life:80/images/87b180298f07d14f08f3681c41da86d5.png" group-title="Intrattenimento",Sky Investigation FHD
+http://sirena.mare7.co:80/live/veliero/240223/146840.m3u8
+#EXTINF:-1 tvg-id="SkyInvestigation.it" tvg-name="Sky Investigation HD" tvg-logo="http://service.myvisio.life:80/images/87b180298f07d14f08f3681c41da86d5.png" group-title="Intrattenimento",Sky Investigation HD
+http://sirena.mare7.co:80/live/veliero/240223/146841.m3u8
+#EXTINF:-1 tvg-id="SkyInvestigation.it" tvg-name="Sky Investigation SD" tvg-logo="http://bs-update.ddns.net/Android/logos/skyinvestigation.png" group-title="Sky Italia SD",Sky Investigation SD
+http://sirena.mare7.co:80/live/veliero/240223/146842.m3u8
+#EXTINF:-1 tvg-id="Giallo.it" tvg-name="Discovery Giallo Italia FHD" tvg-logo="http://service.fullapple.me:80/images/a9674541bd17dfa0afadb235ad3ddb21.png" group-title="Intrattenimento",Discovery Giallo Italia FHD
+http://sirena.mare7.co:80/live/veliero/240223/190028.m3u8
+#EXTINF:-1 tvg-id="MTV.it" tvg-name="MTV Italia FHD" tvg-logo="http://servicelocandine.goldsecurepro.com:8000/images/166fd56586ea855036f8d1ec68224e31.png" group-title="Intrattenimento",MTV Italia FHD
+http://sirena.mare7.co:80/live/veliero/240223/9609.m3u8
+#EXTINF:-1 tvg-id="MTV.it" tvg-name="MTV italia HD" tvg-logo="http://servicelocandine.goldsecurepro.com:8000/images/166fd56586ea855036f8d1ec68224e31.png" group-title="Intrattenimento",MTV italia HD
+http://sirena.mare7.co:80/live/veliero/240223/63273.m3u8
+#EXTINF:-1 tvg-id="Blaze.it" tvg-name="Blaze SD" tvg-logo="http://servicelocandine.goldsecurepro.com:8000/images/fd1570937f0888ab1b771487197c6c9b.png" group-title="Sky Italia SD",Blaze SD
+http://sirena.mare7.co:80/live/veliero/240223/49716.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Blaze +1 SD" tvg-logo="http://bs-update.ddns.net/Android/logos/blaze-hd.png" group-title="Sky Italia SD",Blaze +1 SD
+http://sirena.mare7.co:80/live/veliero/240223/49717.m3u8
+
+
+#EXTINF:-1 tvg-id="" tvg-name="----- DOCUMENTARI -----" tvg-logo="http://service.fullapple.me:80/images/31d52abda89527246184ec524330e337.png" group-title="Documentari",----- DOCUMENTARI -----
+http://sirena.mare7.co:80/live/veliero/240223/22762.m3u8
+
+
+#EXTINF:-1 tvg-id="SkyArte.it" tvg-name="Sky Arte FHD" tvg-logo="http://service.myvisio.life:80/images/33c9eae0ad882c5df060f61f9c8da1ac.png" group-title="Documentari",Sky Arte FHD
+http://sirena.mare7.co:80/live/veliero/240223/26338.m3u8
+#EXTINF:-1 tvg-id="SkyArte.it" tvg-name="Sky Arte HD" tvg-logo="http://service.myvisio.life:80/images/da3fbf5552a03c9148505f2025fab2b8.png" group-title="Documentari",Sky Arte HD
+http://sirena.mare7.co:80/live/veliero/240223/88.m3u8
+#EXTINF:-1 tvg-id="SkyArte.it" tvg-name="Sky Arte SD" tvg-logo="http://bs-update.ddns.net/Android/logos/skyarte-hd.png" group-title="Sky Italia SD",Sky Arte SD
+http://sirena.mare7.co:80/live/veliero/240223/49721.m3u8
+#EXTINF:-1 tvg-id="SkyDocumentaries.it" tvg-name="Sky Documentaries FHD" tvg-logo="http://service.myvisio.life:80/images/7b2d1b30db349e587107f42e1e301670.png" group-title="Documentari",Sky Documentaries FHD
+http://sirena.mare7.co:80/live/veliero/240223/146832.m3u8
+#EXTINF:-1 tvg-id="SkyDocumentaries.it" tvg-name="Sky Documentaries HD" tvg-logo="http://service.myvisio.life:80/images/7b2d1b30db349e587107f42e1e301670.png" group-title="Documentari",Sky Documentaries HD
+http://sirena.mare7.co:80/live/veliero/240223/146831.m3u8
+#EXTINF:-1 tvg-id="SkyDocumentaries.it" tvg-name="Sky Documentaries SD" tvg-logo="http://log.xpcontrol.city:80/images/7b2d1b30db349e587107f42e1e301670.png" group-title="Sky Italia SD",Sky Documentaries SD
+http://sirena.mare7.co:80/live/veliero/240223/146833.m3u8
+#EXTINF:-1 tvg-id="SkyAdventure.it" tvg-name="Sky Adventure FHD" tvg-logo="https://static.skyassets.com/contentstack/assets/bltdc2476c7b6b194dd/blt91a8ae3a1a197558/685a9ad350cb31e630b8ef05/Immagine1_sky_adv.png?downsize=640:*&output-format=jpg" group-title="Documentari",Sky Adventure FHD
+http://sirena.mare7.co:80/live/veliero/240223/226820.m3u8
+#EXTINF:-1 tvg-id="SkyAdventure.it" tvg-name="Sky Adventure HD" tvg-logo="https://static.skyassets.com/contentstack/assets/bltdc2476c7b6b194dd/blt91a8ae3a1a197558/685a9ad350cb31e630b8ef05/Immagine1_sky_adv.png?downsize=640:*&output-format=jpg" group-title="Documentari",Sky Adventure HD
+http://sirena.mare7.co:80/live/veliero/240223/226819.m3u8
+#EXTINF:-1 tvg-id="Discovery.it" tvg-name="Discovery FHD" tvg-logo="http://service.myvisio.life:80/images/419c5c514a0381ba3dd87faa091627fe.png" group-title="Documentari",Discovery FHD
+http://sirena.mare7.co:80/live/veliero/240223/26328.m3u8
+#EXTINF:-1 tvg-id="Discovery.it" tvg-name="Discovery HD" tvg-logo="http://service.myvisio.life:80/images/7f038c1babfde74a3071344e7ee895ea.png" group-title="Documentari",Discovery HD
+http://sirena.mare7.co:80/live/veliero/240223/89.m3u8
+#EXTINF:-1 tvg-id="Discovery.it" tvg-name="Discovery SD" tvg-logo="http://bs-update.ddns.net/Android/logos/discovery-hd.png" group-title="Sky Italia SD",Discovery SD
+http://sirena.mare7.co:80/live/veliero/240223/49722.m3u8
+#EXTINF:-1 tvg-id="DiscoveryPlus1.it" tvg-name="Discovery +1 FHD" tvg-logo="http://service.myvisio.life:80/images/419c5c514a0381ba3dd87faa091627fe.png" group-title="Documentari",Discovery +1 FHD
+http://sirena.mare7.co:80/live/veliero/240223/156915.m3u8
+#EXTINF:-1 tvg-id="DiscoveryPlus1.it" tvg-name="Discovery +1 HD" tvg-logo="http://service.myvisio.life:80/images/419c5c514a0381ba3dd87faa091627fe.png" group-title="Documentari",Discovery +1 HD
+http://sirena.mare7.co:80/live/veliero/240223/33370.m3u8
+#EXTINF:-1 tvg-id="SkyNature.it" tvg-name="Sky Nature FHD" tvg-logo="http://service.myvisio.life:80/images/e491987bbd0f9e7f2b36bac0332708bd.png" group-title="Documentari",Sky Nature FHD
+http://sirena.mare7.co:80/live/veliero/240223/146837.m3u8
+#EXTINF:-1 tvg-id="SkyNature.it" tvg-name="Sky Nature HD" tvg-logo="http://service.myvisio.life:80/images/e491987bbd0f9e7f2b36bac0332708bd.png" group-title="Documentari",Sky Nature HD
+http://sirena.mare7.co:80/live/veliero/240223/146838.m3u8
+#EXTINF:-1 tvg-id="SkyNature.it" tvg-name="Sky Nature SD" tvg-logo="http://servicelocandine.goldsecurepro.com:8000/images/e491987bbd0f9e7f2b36bac0332708bd.png" group-title="Sky Italia SD",Sky Nature SD
+http://sirena.mare7.co:80/live/veliero/240223/146839.m3u8
+#EXTINF:-1 tvg-id="CrimeInvestigation.it" tvg-name="Crime + Inv FHD" tvg-logo="http://service.myvisio.life:80/images/c4489fb46fb4b1d144802f0a651cf0e2.png" group-title="Intrattenimento",Crime + Inv FHD
+http://sirena.mare7.co:80/live/veliero/240223/226818.m3u8
+#EXTINF:-1 tvg-id="CrimeInvestigation.it" tvg-name="Crime + Inv HD" tvg-logo="http://service.myvisio.life:80/images/c4489fb46fb4b1d144802f0a651cf0e2.png" group-title="Intrattenimento",Crime + Inv HD
+http://sirena.mare7.co:80/live/veliero/240223/23.m3u8
+#EXTINF:-1 tvg-id="CrimeInvestigation.it" tvg-name="Crime + Inv. SD" tvg-logo="http://servicelocandine.goldsecurepro.com:8000/images/c4489fb46fb4b1d144802f0a651cf0e2.png" group-title="Sky Italia SD",Crime + Inv. SD
+http://sirena.mare7.co:80/live/veliero/240223/49724.m3u8
+#EXTINF:-1 tvg-id="NatGeoWild.it" tvg-name="NatGeo Wild SD" tvg-logo="http://bs-update.ddns.net/Android/logos/natgeowild-hd.png" group-title="Sky Italia SD",NatGeo Wild SD
+http://sirena.mare7.co:80/live/veliero/240223/49725.m3u8
+#EXTINF:-1 tvg-id="NationalGeo.it" tvg-name="NationalGeo SD" tvg-logo="http://bs-update.ddns.net/Android/logos/nationalgeo-hd.png" group-title="Sky Italia SD",NationalGeo SD
+http://sirena.mare7.co:80/live/veliero/240223/49727.m3u8
+#EXTINF:-1 tvg-id="Sky.Uno.it" tvg-name="History FHD" tvg-logo="http://service.myvisio.life:80/images/98ddd35233c2a48ec3c558d365de6ed3.png" group-title="Documentari",History FHD
+http://sirena.mare7.co:80/live/veliero/240223/48669.m3u8
+#EXTINF:-1 tvg-id="Sky.Uno.it" tvg-name="History HD" tvg-logo="http://service.myvisio.life:80/images/8fd49766dd9f4632fad22cfb01ca344e.png" group-title="Documentari",History HD
+http://sirena.mare7.co:80/live/veliero/240223/95.m3u8
+#EXTINF:-1 tvg-id="History.it" tvg-name="History SD" tvg-logo="http://bs-update.ddns.net/Android/logos/history-hd.png" group-title="Sky Italia SD",History SD
+http://sirena.mare7.co:80/live/veliero/240223/49728.m3u8
+#EXTINF:-1 tvg-id="Focus.HD.it" tvg-name="Sky Focus" tvg-logo="http://service.myvisio.life:80/images/1818d506396d77b3d035f719885c4cd1.png" group-title="Documentari",Sky Focus
+http://sirena.mare7.co:80/live/veliero/240223/631.m3u8
+#EXTINF:-1 tvg-id="Focus.it" tvg-name="Sky Focus SD" tvg-logo="http://bs-update.ddns.net/Android/logos/focus.png" group-title="Sky Italia SD",Sky Focus SD
+http://sirena.mare7.co:80/live/veliero/240223/49729.m3u8
+#EXTINF:-1 tvg-id="DMAX.it" tvg-name="Dmax HD" tvg-logo="http://service.myvisio.life:80/images/c9bec96248605dd0dd45bf4897115504.png" group-title="Documentari",Dmax HD
+http://sirena.mare7.co:80/live/veliero/240223/343.m3u8
+#EXTINF:-1 tvg-id="DMAX.it" tvg-name="Dmax SD" tvg-logo="http://servicelocandine.goldsecurepro.com:8000/images/c9bec96248605dd0dd45bf4897115504.png" group-title="Sky Italia SD",Dmax SD
+http://sirena.mare7.co:80/live/veliero/240223/49730.m3u8
+#EXTINF:-1 tvg-id="TopCrime.it" tvg-name="Top Crime HD" tvg-logo="http://service.fullapple.me:80/images/2338e1f59fcab8c2243fc9d58b5a2213.png" group-title="Documentari",Top Crime HD
+http://sirena.mare7.co:80/live/veliero/240223/187419.m3u8
+#EXTINF:-1 tvg-id="SkyUno.it" tvg-name="Real Time HD" tvg-logo="http://service.fullapple.me:8000/images/6ddff5c9b7c2045a40a019e5b3fac124.png" group-title="Documentari",Real Time HD
+http://sirena.mare7.co:80/live/veliero/240223/293.m3u8
+#EXTINF:-1 tvg-id="RealTime.it" tvg-name="Real Time SD" tvg-logo="http://service.fullapple.me:8000/images/6ddff5c9b7c2045a40a019e5b3fac124.png" group-title="Sky Italia SD",Real Time SD
+http://sirena.mare7.co:80/live/veliero/240223/49731.m3u8
+#EXTINF:-1 tvg-id="SkyUno.it" tvg-name="Caccia e Pesca" tvg-logo="http://service.myvisio.life:80/images/e21914b1a2fe7ac745a5a035fad28c32.png" group-title="Documentari",Caccia e Pesca
+http://sirena.mare7.co:80/live/veliero/240223/98.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Caccia e Pesca +1" tvg-logo="http://service.fullapple.me:8000/images/e21914b1a2fe7ac745a5a035fad28c32.png" group-title="Documentari",Caccia e Pesca +1
+http://sirena.mare7.co:80/live/veliero/240223/9044.m3u8
+#EXTINF:-1 tvg-id="Pesca.it" tvg-name="Pesca e Caccia" tvg-logo="http://service.myvisio.life:80/images/e9fb4d5b7e79bbfbf3d35d0f6a00cf3c.png" group-title="Documentari",Pesca e Caccia
+http://sirena.mare7.co:80/live/veliero/240223/99.m3u8
+#EXTINF:-1 tvg-id="CartoonNetwork.it" tvg-name="Pesca e Caccia +1" tvg-logo="http://service.fullapple.me:8000/images/e9fb4d5b7e79bbfbf3d35d0f6a00cf3c.png" group-title="Documentari",Pesca e Caccia +1
+http://sirena.mare7.co:80/live/veliero/240223/9043.m3u8
+#EXTINF:-1 tvg-id="ItalianFishingTv.it" tvg-name="Italian Fishing Tv" tvg-logo="http://service.myvisio.life:80/images/0509a55eed723c8ce05c042e075f65ff.png" group-title="Documentari",Italian Fishing Tv
+http://sirena.mare7.co:80/live/veliero/240223/3869.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Samsung+ Italian Fishing Tv" tvg-logo="http://service.myvisio.life:80/images/0509a55eed723c8ce05c042e075f65ff.png" group-title="Documentari",Samsung+ Italian Fishing Tv
+http://sirena.mare7.co:80/live/veliero/240223/178628.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Passione Surf Casting" tvg-logo="http://service.fullapple.me:8000/images/96d6f2e7e1f705ab5e59c84a6dc009b2.png" group-title="Documentari",Passione Surf Casting
+http://sirena.mare7.co:80/live/veliero/240223/178629.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Passione Surf Casting 2" tvg-logo="http://servicelocandine.goldsecurepro.com:8000/images/96d6f2e7e1f705ab5e59c84a6dc009b2.png" group-title="Documentari",Passione Surf Casting 2
+http://sirena.mare7.co:80/live/veliero/240223/178630.m3u8
+#EXTINF:-1 tvg-id="BIKE.it" tvg-name="Horse TV HD" tvg-logo="http://service.myvisio.life:80/images/c5219a3ef08ab8fc3e6bca74d6bc7a00.png" group-title="Documentari",Horse TV HD
+http://sirena.mare7.co:80/live/veliero/240223/62723.m3u8
+#EXTINF:-1 tvg-id="GamberoRosso.it" tvg-name="Gambero Rosso HD" tvg-logo="http://service.myvisio.life:80/images/cf7363bfc3e8435e39c581081ad88034.png" group-title="Documentari",Gambero Rosso HD
+http://sirena.mare7.co:80/live/veliero/240223/100.m3u8
+#EXTINF:-1 tvg-id="FoodNetwork.it" tvg-name="Food Network" tvg-logo="http://service.myvisio.life:80/images/5382b51ca47c88d283e818ad2d1e3aca.png" group-title="Intrattenimento",Food Network
+http://sirena.mare7.co:80/live/veliero/240223/24748.m3u8
+#EXTINF:-1 tvg-id="HGTV.it" tvg-name="HGTV Home e Garden" tvg-logo="http://service.fullapple.me:8000/images/ecaf59047bbd5ef78f1cd878c2ffb449.png" group-title="Documentari",HGTV Home e Garden
+http://sirena.mare7.co:80/live/veliero/240223/161376.m3u8
+
+
+#EXTINF:-1 tvg-id="" tvg-name="----- BAMBINI -----" tvg-logo="http://servicelocandine.goldsecurepro.com:8000/images/31d52abda89527246184ec524330e337.png" group-title="Ragazzi",----- BAMBINI -----
+http://sirena.mare7.co:80/live/veliero/240223/22763.m3u8
+
+
+#EXTINF:-1 tvg-id="" tvg-name="Me contro Te Channel" tvg-logo="http://universodream.xpcontrol.city:80/images/8dda8195962b2b70d6c0d09a6208106b.png" group-title="Ragazzi",Me contro Te Channel
+http://sirena.mare7.co:80/live/veliero/240223/131929.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Masha e Orso Channel" tvg-logo="http://servicelocandine.goldsecurepro.com:8000/images/a27c33d92756f56fcc74143e6dfd992a.png" group-title="Ragazzi",Masha e Orso Channel
+http://sirena.mare7.co:80/live/veliero/240223/63274.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Barbie Channel" tvg-logo="http://servicelocandine.goldsecurepro.com:8000/images/d3dbdabe5387d87ba85f8f09435f2a37.png" group-title="Ragazzi",Barbie Channel
+http://sirena.mare7.co:80/live/veliero/240223/104184.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Bob Aggiusta Tutto Channel" tvg-logo="http://servicelocandine.goldsecurepro.com:8000/images/c208825f0dad2e71cfe95196072041df.png" group-title="Ragazzi",Bob Aggiusta Tutto Channel
+http://sirena.mare7.co:80/live/veliero/240223/104185.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Bing Channel" tvg-logo="http://service.fullapple.me:8000/images/37536e922a13a0a9f7b1c1b9cbc8711d.png" group-title="Ragazzi",Bing Channel
+http://sirena.mare7.co:80/live/veliero/240223/124142.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Curioso Come George Channel" tvg-logo="http://servicelocandine.goldsecurepro.com:8000/images/edc7831c5042ccd7ca1b2f9475d34504.png" group-title="Ragazzi",Curioso Come George Channel
+http://sirena.mare7.co:80/live/veliero/240223/104186.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Dragon Ball Z Channel" tvg-logo="http://service.fullapple.me:8000/images/be435742d38a099388be17b63bcd963f.png" group-title="Ragazzi",Dragon Ball Z Channel
+http://sirena.mare7.co:80/live/veliero/240223/185457.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Leone il Cane Fifone Channel" tvg-logo="http://servicelocandine.goldsecurepro.com:8000/images/8187fa47b2b1ac0b9fe83475a2d9e1a5.png" group-title="Ragazzi",Leone il Cane Fifone Channel
+http://sirena.mare7.co:80/live/veliero/240223/104187.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Oggi e i Maledetti Scarafaggi Channel" tvg-logo="http://servicelocandine.goldsecurepro.com:8000/images/9d67386a9bb4cd7dc20a6d8aa6d002b3.png" group-title="Ragazzi",Oggi e i Maledetti Scarafaggi Channel
+http://sirena.mare7.co:80/live/veliero/240223/104190.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PJ Masks Channel" tvg-logo="http://servicelocandine.goldsecurepro.com:8000/images/e0fd16f793cc7dce9ba7e4ae468fb5f2.png" group-title="Ragazzi",PJ Masks Channel
+http://sirena.mare7.co:80/live/veliero/240223/104193.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Sam il Pompiere Channel" tvg-logo="http://servicelocandine.goldsecurepro.com:8000/images/3bf3a2df4a6747c4937ac010e790ff6d.png" group-title="Ragazzi",Sam il Pompiere Channel
+http://sirena.mare7.co:80/live/veliero/240223/104194.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Teletubbies Channel" tvg-logo="http://bs-update.ddns.net/Android/logos/teletubbies-ch.png" group-title="Ragazzi",Teletubbies Channel
+http://sirena.mare7.co:80/live/veliero/240223/104196.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Tom e Jerry Channel" tvg-logo="http://servicelocandine.goldsecurepro.com:8000/images/6f02fe475b2d84daf03e3134f9ebd3e8.png" group-title="Ragazzi",Tom e Jerry Channel
+http://sirena.mare7.co:80/live/veliero/240223/104197.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Trenino Thomas Channel" tvg-logo="http://servicelocandine.goldsecurepro.com:8000/images/2e9a01a7b36fd4ecb892fd111df2311e.png" group-title="Ragazzi",Trenino Thomas Channel
+http://sirena.mare7.co:80/live/veliero/240223/104198.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Harry Potter Channel" tvg-logo="http://service.fullapple.me:8000/images/69e7940e9179da5eb05d652077424417.png" group-title="Ragazzi",Harry Potter Channel
+http://sirena.mare7.co:80/live/veliero/240223/185813.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Disney Plus" tvg-logo="http://service.fullapple.me:8000/images/03fa90c27207db66834f35660beee421.png" group-title="Ragazzi",Disney Plus
+http://sirena.mare7.co:80/live/veliero/240223/65597.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Baby TV" tvg-logo="http://service.fullapple.me:8000/images/d3dbdabe5387d87ba85f8f09435f2a37.png" group-title="Ragazzi",Baby TV
+http://sirena.mare7.co:80/live/veliero/240223/128958.m3u8
+#EXTINF:-1 tvg-id="SkyUno.it" tvg-name="Cartoon Network HD" tvg-logo="http://bs-update.ddns.net/Android/logos/cartoonnetwork-hd.png" group-title="Ragazzi",Cartoon Network HD
+http://sirena.mare7.co:80/live/veliero/240223/50.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Cartoon Network SD" tvg-logo="http://bs-update.ddns.net/Android/logos/cartoonnetwork-hd.png" group-title="Sky Italia SD",Cartoon Network SD
+http://sirena.mare7.co:80/live/veliero/240223/49779.m3u8
+#EXTINF:-1 tvg-id="Cartoonito.it" tvg-name="Cartoonito" tvg-logo="http://bs-update.ddns.net/Android/logos/cartoonito.png" group-title="Ragazzi",Cartoonito
+http://sirena.mare7.co:80/live/veliero/240223/699.m3u8
+#EXTINF:-1 tvg-id="Nickelodeon.it" tvg-name="NickelOdeon" tvg-logo="http://bs-update.ddns.net/Android/logos/nickelodeon.png" group-title="Ragazzi",NickelOdeon
+http://sirena.mare7.co:80/live/veliero/240223/104.m3u8
+#EXTINF:-1 tvg-id="Boomerang.it" tvg-name="Boomerang" tvg-logo="http://bs-update.ddns.net/Android/logos/boomerang.png" group-title="Ragazzi",Boomerang
+http://sirena.mare7.co:80/live/veliero/240223/105.m3u8
+#EXTINF:-1 tvg-id="SkyUno.it" tvg-name="DeAJunior" tvg-logo="http://bs-update.ddns.net/Android/logos/deajunior.png" group-title="Ragazzi",DeAJunior
+http://sirena.mare7.co:80/live/veliero/240223/109.m3u8
+#EXTINF:-1 tvg-id="DeAKids.it" tvg-name="DeA Kids" tvg-logo="http://bs-update.ddns.net/Android/logos/deakids.png" group-title="Ragazzi",DeA Kids
+http://sirena.mare7.co:80/live/veliero/240223/102.m3u8
+#EXTINF:-1 tvg-id="Frisbee.it" tvg-name="Frisbee" tvg-logo="http://servicelocandine.goldsecurepro.com:8000/images/90ad91331f8409c7bb67cd807ccbf028.png" group-title="Ragazzi",Frisbee
+http://sirena.mare7.co:80/live/veliero/240223/22749.m3u8
+#EXTINF:-1 tvg-id="Super!.it" tvg-name="Super!" tvg-logo="http://servicelocandine.goldsecurepro.com:8000/images/1b3231655cebb7a1f783eddf27d254ca.png" group-title="Ragazzi",Super!
+http://sirena.mare7.co:80/live/veliero/240223/698.m3u8
+#EXTINF:-1 tvg-id="NickJr.it" tvg-name="NickJunior" tvg-logo="http://bs-update.ddns.net/Android/logos/nickjunior.png" group-title="Ragazzi",NickJunior
+http://sirena.mare7.co:80/live/veliero/240223/103.m3u8
+#EXTINF:-1 tvg-id="K2.it" tvg-name="K2" tvg-logo="http://bs-update.ddns.net/Android/logos/k2.png" group-title="Ragazzi",K2
+http://sirena.mare7.co:80/live/veliero/240223/639.m3u8
+
+
+#EXTINF:-1 tvg-id="" tvg-name="----- PRIMAFILA -----" tvg-logo="http://service.fullapple.me:8000/images/410cf889fabc224e145b0c49ea8d1bc1.png" group-title="Primafila",----- PRIMAFILA -----
+http://sirena.mare7.co:80/movie/veliero/240223/51996.mp4
+
+
+#EXTINF:-1 tvg-id="" tvg-name="PRIMAFILA 1 FHD" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8y87VNGOMHKoqAukTeUWUMESPuc.jpg" group-title="Primafila",PRIMAFILA 1 FHD
+http://sirena.mare7.co:80/movie/veliero/240223/83971.mp4
+#EXTINF:-1 tvg-id="" tvg-name="PRIMAFILA 2 FHD" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sEma5RN8aZ5Yu2Dkefyn5ULdlc1.jpg" group-title="Primafila",PRIMAFILA 2 FHD
+http://sirena.mare7.co:80/movie/veliero/240223/51999.mp4
+#EXTINF:-1 tvg-id="" tvg-name="PRIMAFILA 3 FHD" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nWVR1C3zczfxBfdMCvbizTxsGQ8.jpg" group-title="Primafila",PRIMAFILA 3 FHD
+http://sirena.mare7.co:80/movie/veliero/240223/52000.mp4
+#EXTINF:-1 tvg-id="" tvg-name="PRIMAFILA 4 FHD" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xBKbvbzCJrYkACubhzU5ZX3Hg7G.jpg" group-title="Primafila",PRIMAFILA 4 FHD
+http://sirena.mare7.co:80/movie/veliero/240223/52001.mp4
+#EXTINF:-1 tvg-id="" tvg-name="PRIMAFILA 5 FHD" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/n8uQmraOqvKEOEz9qAe3kfEDX0.jpg" group-title="Primafila",PRIMAFILA 5 FHD
+http://sirena.mare7.co:80/movie/veliero/240223/52002.mp4
+#EXTINF:-1 tvg-id="" tvg-name="PRIMAFILA 6 FHD" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ccZAqgSFk7K7vvqAu30896eXXJ8.jpg" group-title="Primafila",PRIMAFILA 6 FHD
+http://sirena.mare7.co:80/movie/veliero/240223/52003.mp4
+#EXTINF:-1 tvg-id="" tvg-name="PRIMAFILA 7 FHD" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/o8pg20G67BGmQvRkXwstNre062J.jpg" group-title="Primafila",PRIMAFILA 7 FHD
+http://sirena.mare7.co:80/movie/veliero/240223/52004.mp4
+#EXTINF:-1 tvg-id="" tvg-name="PRIMAFILA 8 FHD" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ggzcuZ3H1F2SMweo9frHyko7La2.jpg" group-title="Primafila",PRIMAFILA 8 FHD
+http://sirena.mare7.co:80/movie/veliero/240223/52005.mp4
+#EXTINF:-1 tvg-id="" tvg-name="PRIMAFILA 9 FHD" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/abp7UjNegChUiciPgSBRC2acBCc.jpg" group-title="Primafila",PRIMAFILA 9 FHD
+http://sirena.mare7.co:80/movie/veliero/240223/52006.mp4
+#EXTINF:-1 tvg-id="" tvg-name="PRIMAFILA 10 FHD" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jYxdUltC1BADOIuDrltcenkTWei.jpg" group-title="Primafila",PRIMAFILA 10 FHD
+http://sirena.mare7.co:80/movie/veliero/240223/52007.mp4
