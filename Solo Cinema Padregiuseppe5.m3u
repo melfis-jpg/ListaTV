@@ -1,0 +1,107 @@
+#EXTM3U http-user-agent="IPTVSmartersPlayer"
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/vR7S6S8.png" group-title="!! INFO SCADENZA !!",--- SCADENZA: 28 FEBBRAIO 2026 ore 14:44 ---
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 Windows NT 10.0; Win64; x64
+http://0.0.0.0
+
+#EXTINF:-1 tvg-id="Sky Cinema Uno" tvg-name="Sky Cinema Uno" tvg-logo="https://filedn.eu/lPVqS7nFaoy06hMfxvThEHF/Img/App/skycinema/flux2/Gunofhd.png" group-title="Cinema",Sky Cinema Uno
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 Windows NT 10.0; Win64; x64
+http://154.6.60.70:7895/Padregiuseppe5/hU7xw9y/153
+#EXTINF:-1 tvg-id="Sky Cinema Uno +24" tvg-name="Sky Cinema Uno +24" tvg-logo="https://filedn.eu/lPVqS7nFaoy06hMfxvThEHF/Img/App/skycinema/flux2/Guno24fhd.png" group-title="Cinema",Sky Cinema Uno +24
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 Windows NT 10.0; Win64; x64
+http://154.6.60.70:7895/Padregiuseppe5/hU7xw9y/155
+#EXTINF:-1 tvg-id="Sky Cinema Due" tvg-name="Sky Cinema Stories" tvg-logo="https://filedn.eu/lPVqS7nFaoy06hMfxvThEHF/Img/App/skycinema/flux2/Gduefhd.png" group-title="Cinema",Sky Cinema Stories
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 Windows NT 10.0; Win64; x64
+http://154.6.60.70:7895/Padregiuseppe5/hU7xw9y/156
+#EXTINF:-1 tvg-id="Sky Cinema Family" tvg-name="Sky Cinema Family" tvg-logo="https://filedn.eu/lPVqS7nFaoy06hMfxvThEHF/Img/App/skycinema/flux2/Gfamilyfhd.png" group-title="Cinema",Sky Cinema Family
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 Windows NT 10.0; Win64; x64
+http://154.6.60.70:7895/Padregiuseppe5/hU7xw9y/158
+#EXTINF:-1 tvg-id="Sky Cinema Action" tvg-name="Sky Cinema Action" tvg-logo="https://filedn.eu/lPVqS7nFaoy06hMfxvThEHF/Img/App/skycinema/flux2/actionfhd.png" group-title="Cinema",Sky Cinema Action
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 Windows NT 10.0; Win64; x64
+http://154.6.60.70:7895/Padregiuseppe5/hU7xw9y/159
+#EXTINF:-1 tvg-id="Sky Cinema Suspence" tvg-name="Sky Cinema Suspense" tvg-logo="https://filedn.eu/lPVqS7nFaoy06hMfxvThEHF/Img/App/skycinema/flux2/Gsuspensefhd.png" group-title="Cinema",Sky Cinema Suspense
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 Windows NT 10.0; Win64; x64
+http://154.6.60.70:7895/Padregiuseppe5/hU7xw9y/160
+#EXTINF:-1 tvg-id="Sky Cinema Romance" tvg-name="Sky Cinema Romance" tvg-logo="https://filedn.eu/lPVqS7nFaoy06hMfxvThEHF/Img/App/skycinema/flux2/Gromancefhd.png" group-title="Cinema",Sky Cinema Romance
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 Windows NT 10.0; Win64; x64
+http://154.6.60.70:7895/Padregiuseppe5/hU7xw9y/161
+#EXTINF:-1 tvg-id="Sky Cinema Drama" tvg-name="Sky Cinema Drama" tvg-logo="https://filedn.eu/lPVqS7nFaoy06hMfxvThEHF/Img/App/skycinema/flux2/Gdramafhd.png" group-title="Cinema",Sky Cinema Drama
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 Windows NT 10.0; Win64; x64
+http://154.6.60.70:7895/Padregiuseppe5/hU7xw9y/162
+#EXTINF:-1 tvg-id="Sky Cinema Comedy HD" tvg-name="Sky Cinema Comedy" tvg-logo="https://filedn.eu/lPVqS7nFaoy06hMfxvThEHF/Img/App/skycinema/flux2/Gcomedyfhd.png" group-title="Cinema",Sky Cinema Comedy
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 Windows NT 10.0; Win64; x64
+http://154.6.60.70:7895/Padregiuseppe5/hU7xw9y/163
+#EXTINF:-1 tvg-id="Sky Cinema Collection" tvg-name="Sky Cinema Collection" tvg-logo="https://filedn.eu/lPVqS7nFaoy06hMfxvThEHF/Img/App/skycinema/flux2/Gcollectionfhd.png" group-title="Cinema",Sky Cinema Collection
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 Windows NT 10.0; Win64; x64
+http://154.6.60.70:7895/Padregiuseppe5/hU7xw9y/157
+#EXTINF:-1 tvg-id="" tvg-name="Cine34" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/CINE34_LOGO.png/769px-CINE34_LOGO.png" group-title="Cinema",Cine34
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 Windows NT 10.0; Win64; x64
+http://154.6.60.70:7895/Padregiuseppe5/hU7xw9y/29535
+#EXTINF:-1 tvg-id="" tvg-name="Rai Movie" tvg-logo="https://i.ytimg.com/vi/HGzmeE-aTe0/sddefault.jpg" group-title="Cinema",Rai Movie
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 Windows NT 10.0; Win64; x64
+http://154.6.60.70:7895/Padregiuseppe5/hU7xw9y/8454
+#EXTINF:-1 tvg-id="Sky Uno" tvg-name="Sky Uno FullHD" tvg-logo="https://pixel.disco.nowtv.it/logo/skychb_477_darknow/LOGO_CHANNEL_LIGHT/104/72?language=it-IT&proposition=NOWOTT" group-title="Intrattenimento",Sky Uno FullHD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 Windows NT 10.0; Win64; x64
+http://154.6.60.70:7895/Padregiuseppe5/hU7xw9y/2995
+#EXTINF:-1 tvg-id="Sky Uno" tvg-name="Sky Uno SD" tvg-logo="https://pixel.disco.nowtv.it/logo/skychb_477_darknow/LOGO_CHANNEL_LIGHT/104/72?language=it-IT&proposition=NOWOTT" group-title="Intrattenimento",Sky Uno SD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 Windows NT 10.0; Win64; x64
+http://154.6.60.70:7895/Padregiuseppe5/hU7xw9y/22403
+#EXTINF:-1 tvg-id="Sky Atlantic" tvg-name="Sky Atlantic" tvg-logo="https://banner2.cleanpng.com/20180622/bak/aaze53d3c.webp" group-title="Intrattenimento",Sky Atlantic
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 Windows NT 10.0; Win64; x64
+http://154.6.60.70:7895/Padregiuseppe5/hU7xw9y/2999
+#EXTINF:-1 tvg-id="" tvg-name="Sky Investigation" tvg-logo="https://guidatv.sky.it/logo/686skyinvestigationhd_Light_Padding.png" group-title="Intrattenimento",Sky Investigation
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 Windows NT 10.0; Win64; x64
+http://154.6.60.70:7895/Padregiuseppe5/hU7xw9y/70976
+#EXTINF:-1 tvg-id="11244.skyit" tvg-name="Sky Serie" tvg-logo="https://i.ibb.co/L68wY3D/Sky-Serie-logo.jpg" group-title="Intrattenimento",Sky Serie
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 Windows NT 10.0; Win64; x64
+http://154.6.60.70:7895/Padregiuseppe5/hU7xw9y/70978
+#EXTINF:-1 tvg-id="" tvg-name="Sky Collection" tvg-logo="https://i.ibb.co/1GsW75WV/Sky-Collection-2025.png" group-title="Intrattenimento",Sky Collection
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 Windows NT 10.0; Win64; x64
+http://154.6.60.70:7895/Padregiuseppe5/hU7xw9y/267208
+#EXTINF:-1 tvg-id="Comedy Central" tvg-name="Comedy Central" tvg-logo="https://guidatv.sky.it/logo/404comedycentral_Light_Padding.png" group-title="Intrattenimento",Comedy Central
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 Windows NT 10.0; Win64; x64
+http://154.6.60.70:7895/Padregiuseppe5/hU7xw9y/8462
+#EXTINF:-1 tvg-id="20 Mediaset" tvg-name="20 Mediaset" tvg-logo="https://filedn.eu/lPVqS7nFaoy06hMfxvThEHF/Img/App/tv/20mediaset.png" group-title="Intrattenimento",20 Mediaset
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 Windows NT 10.0; Win64; x64
+http://154.6.60.70:7895/Padregiuseppe5/hU7xw9y/3040
+#EXTINF:-1 tvg-id="" tvg-name="Mediaset Twentyseven" tvg-logo="https://filedn.eu/lPVqS7nFaoy06hMfxvThEHF/Img/App/tv/Twentysevenuovo.png" group-title="Intrattenimento",Mediaset Twentyseven
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 Windows NT 10.0; Win64; x64
+http://154.6.60.70:7895/Padregiuseppe5/hU7xw9y/90943
+#EXTINF:-1 tvg-id="Real Time" tvg-name="RealTime" tvg-logo="https://toppng.com/uploads/preview/real-time-logo-11550719165qfvn6ve4qi.png" group-title="Intrattenimento",RealTime
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 Windows NT 10.0; Win64; x64
+http://154.6.60.70:7895/Padregiuseppe5/hU7xw9y/3025
+#EXTINF:-1 tvg-id="Cielo" tvg-name="Cielo" tvg-logo="https://logospng.org/wp-content/uploads/cielo.png" group-title="Intrattenimento",Cielo
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 Windows NT 10.0; Win64; x64
+http://154.6.60.70:7895/Padregiuseppe5/hU7xw9y/3030
+#EXTINF:-1 tvg-id="Giallo" tvg-name="Giallo" tvg-logo="https://i.ibb.co/kqMZKPF/1280px-Giallo-Logo-2014-svg.png" group-title="Intrattenimento",Giallo
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 Windows NT 10.0; Win64; x64
+http://154.6.60.70:7895/Padregiuseppe5/hU7xw9y/3052
+#EXTINF:-1 tvg-id="Italia 2" tvg-name="Italia due" tvg-logo="https://filedn.eu/lPVqS7nFaoy06hMfxvThEHF/Img/App/tv/Italia2.png" group-title="Intrattenimento",Italia due
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 Windows NT 10.0; Win64; x64
+http://154.6.60.70:7895/Padregiuseppe5/hU7xw9y/22137
+#EXTINF:-1 tvg-id="20 Mediaset" tvg-name="Iris" tvg-logo="https://filedn.eu/lPVqS7nFaoy06hMfxvThEHF/Img/App/tv/Iris.png" group-title="Intrattenimento",Iris
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 Windows NT 10.0; Win64; x64
+http://154.6.60.70:7895/Padregiuseppe5/hU7xw9y/8455
+#EXTINF:-1 tvg-id="20 Mediaset" tvg-name="La 7D" tvg-logo="https://filedn.eu/lPVqS7nFaoy06hMfxvThEHF/Img/App/tv/la7dnuovo.png" group-title="Intrattenimento",La 7D
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 Windows NT 10.0; Win64; x64
+http://154.6.60.70:7895/Padregiuseppe5/hU7xw9y/3054
+#EXTINF:-1 tvg-id="La 5" tvg-name="La 5" tvg-logo="https://banner2.cleanpng.com/20180617/htu/aa6s3ajus.webp" group-title="Intrattenimento",La 5
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 Windows NT 10.0; Win64; x64
+http://154.6.60.70:7895/Padregiuseppe5/hU7xw9y/3042
+#EXTINF:-1 tvg-id="Mediaset Extra" tvg-name="Mediaset Extra" tvg-logo="https://i.ibb.co/sbsgbJx/mediaset-extra.jpg" group-title="Intrattenimento",Mediaset Extra
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 Windows NT 10.0; Win64; x64
+http://154.6.60.70:7895/Padregiuseppe5/hU7xw9y/3045
+#EXTINF:-1 tvg-id="20 Mediaset" tvg-name="Rai 4" tvg-logo="https://filedn.eu/lPVqS7nFaoy06hMfxvThEHF/Img/App/tv/Rai4n.png" group-title="Intrattenimento",Rai 4
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 Windows NT 10.0; Win64; x64
+http://154.6.60.70:7895/Padregiuseppe5/hU7xw9y/3035
+#EXTINF:-1 tvg-id="20 Mediaset" tvg-name="Rai 5" tvg-logo="https://filedn.eu/lPVqS7nFaoy06hMfxvThEHF/Img/App/tv/Rai5n.png" group-title="Intrattenimento",Rai 5
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 Windows NT 10.0; Win64; x64
+http://154.6.60.70:7895/Padregiuseppe5/hU7xw9y/3037
+#EXTINF:-1 tvg-id="Top Crime" tvg-name="Top Crime" tvg-logo="https://www.mfemediaforeurope.com/binary/imageGallery/85/C_9_imageGallery_2_18_image.png" group-title="Intrattenimento",Top Crime
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 Windows NT 10.0; Win64; x64
+http://154.6.60.70:7895/Padregiuseppe5/hU7xw9y/3049
+#EXTINF:-1 tvg-id="20 Mediaset" tvg-name="Rai Premium" tvg-logo="https://filedn.eu/lPVqS7nFaoy06hMfxvThEHF/Img/App/tv/Raipremium.png" group-title="Intrattenimento",Rai Premium
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 Windows NT 10.0; Win64; x64
+http://154.6.60.70:7895/Padregiuseppe5/hU7xw9y/3032
+#EXTINF:-1 tvg-id="" tvg-name="TV2000" tvg-logo="http://streamtvapp.it/picons/tvsat/tv2000fhd.png" group-title="Intrattenimento",TV2000
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 Windows NT 10.0; Win64; x64
