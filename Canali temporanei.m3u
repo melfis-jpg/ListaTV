@@ -1,42 +1,13 @@
 #EXTM3U http-user-agent="IPTVSmartersPlayer"
 
-#EXTINF:-1 tvg-id="SkySportF1.it" tvg-name="Sky Sport F1 FHD" tvg-logo="http://service.myvisio.life:80/images/0f4c797d14c5c64cb7e8fd7ed5e9cd94.png" group-title="Sport",Sky Sport F1 FHD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-
-#EXTINF:-1 tvg-id="SkySportMotoGP.it" tvg-name="Sky Sport MotoGP FHD" tvg-logo="http://service.myvisio.life:80/images/314a9a576595b9e7aa5bd1c8de1adf39.png" group-title="Sport",Sky Sport MotoGP FHD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-
-#EXTINF:-1 tvg-id="SuperTennis.it" tvg-name="Super Tennis FHD" tvg-logo="http://service.myvisio.life:80/images/486f331f3edd4bd4fc4b78cca2f5b266.png" group-title="Sport",Super Tennis FHD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-
-#EXTINF:-1 tvg-id="Eurosport1.it" tvg-name="Eurosport 1 FHD" tvg-logo="http://service.myvisio.life:80/images/8b09226975f258b7124e2ce9fed72537.png" group-title="Sport",Eurosport 1 FHD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-
 #EXTINF:-1 tvg-id="SkySport24.it" tvg-name="Sky Sport 24 FHD" tvg-logo="http://service.myvisio.life:80/images/2bcb93c48cd3ed807449f7be2e294611.png" group-title="Sport",Sky Sport 24 FHD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 http://46.249.105.199:8080/live/veliero/240223/27975.m3u8?token=QkNdVUdREF8aD1MGUQcCVQADVFJTUFpXUQAJVwkNBFZcBFcBVQxXA1kUShcWREcDAFlqWQJDAgZSWg8BHRdHRlwTal1QGwhHCQNSAFICF0pDQFxdA0MCBElBSF1VFwgXCFEEBgMbHkddThJQF15UCj5QUEYPAl0WXw1NWF0ZEFpXPlFRWVhcARoMRAVHHBcPEkQXCkQ1XVgAAFdZEXxGVFUIVBRnF0JLeRhGYSx+FSMgZ2wQKihscUdPGlZYQUBUTQQXDhYNBlQIFEoXBl9ACBVGTBJcQ3FgR08aUUlBV1tKCFpaFgMQCAtDXhdJElwVPkZQQxITXVUIBkoWCxcCFxVDWFVMZlEKVlgDVhFZWggSFg8SV0MUFggMVl1FWkBqSQhRFg4bA1UBBVYXGA
 
-#EXTINF:-1 tvg-id="SkySportUno.it" tvg-name="Sky Sport Uno FHD" tvg-logo="http://service.myvisio.life:80/images/c2bf54d3ebf08cdb82414d86873a4ef2.png" group-title="Sport",Sky Sport Uno FHD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-
-#EXTINF:-1 tvg-id="SkySportArena.it" tvg-name="Sky Sport Arena FHD" tvg-logo="http://service.myvisio.life:80/images/4607604facccab8682e775038115c2d8.png" group-title="Sport",Sky Sport Arena FHD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-
-#EXTINF:-1 tvg-id="SkySportAction.it" tvg-name="Sky Sport Max FHD" tvg-logo="http://service.myvisio.life:80/images/6e52f03c60fd3c0917535cdeba9b072b.png" group-title="Sport",Sky Sport Max FHD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-
-#EXTINF:-1 tvg-id="SkySportMix.it" tvg-name="Sky Sport Mix FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Sky_Sport_Mix_Logo_2022.svg/512px-Sky_Sport_Mix_Logo_2022.svg.png" group-title="Sport",Sky Sport Mix FHD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-
-#EXTINF:-1 tvg-id="SkySportNBA.it" tvg-name="Sky Sport NBA FHD" tvg-logo="http://service.myvisio.life:80/images/b2c9751b876c3bc2658f00a37b0a3406.png" group-title="Sport",Sky Sport NBA FHD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-
-#EXTINF:-1 tvg-id="SkySportTennis.it" tvg-name="Sky Sport Tennis FHD" tvg-logo="http://service.myvisio.life:80/images/81ed9f01f5e6043e50cd95bdeb8af009.png" group-title="Sport",Sky Sport Tennis FHD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-
 #EXTINF:-1 tvg-id="" tvg-name="Dazn Sport 3 FHD Exclusive (Buffering)" tvg-logo="http://service.fullapple.me:8000/images/96569490650d9269df0cfcafc93863c1.png" group-title="Dazn Flusso 1",Dazn Sport 3 FHD Exclusive (Buffering)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 http://46.249.105.199:8080/live/veliero/240223/185863.m3u8?token=QkNdVUdREF8aUlZQVgUEUlMEAFRUVwFXBwcMV1INBwJcAgcMB1xWVAsUShcWREcDAFlqWQJDAgVdVgACAhkQQEoER2tdXRBfGgdTAVAHB0RNFkFZCwQaDlVPGkRYURAPG1AFAQwNEEkaUx5BAEJbBw1rUVUQCFtRR1lWQV1ZHhdWD2pQUVRTC1wUXBdVEhlECEdFElxDbFEJBltbXBV7QVgNXFUUahwVFndIFTF5e0YkdWZpRi1xYCBBFBZTXEZHWBVQFg4bBlUMBUQZR1NaEw9AR0lEWxp9MUEUFlRNRlBXElxbWhsIR1UFEw1HHBcPEmtHVRUVSlEEDl1GEw8QBRtNF1lVQW0GV1gIUAZEXAkPRxcKRFAaGEcOV1pYQV1HZhFcUBYDEFQLAV8DR00=
+
 
 
 
