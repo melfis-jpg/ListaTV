@@ -3,7 +3,7 @@ http://sirena.mare7.co:80/live/veliero/240223/29042.m3u8
 
 #EXTINF:0,Sky Sport Calcio
 http://50.7.37.155:8080/live/veliero/240223/185825.m3u8?token=QkNdVUdREF8aU1UGVgdUUldQAgcHU1xWUFEIBQlTVAJYBAwBDAhTVw0UShcWREcDAFlqWQJDAgVdVgAGBBkQQEoER2tdXRBfGgdTAVAHB0RNFkFZCwQaDlVPGkRYURAPG1AGBgEOEEkaUx5BAEJbBw1rUVUQCFtRR1lWQV1ZHhdWD2pQUVRTC1wUXBdVEhlECEdFElxDbFEJBltbXBV7QVgNXFUUahwVFndIFTF5e0YkdWZpRi1xYCBBFBZTXEZHWBVQFg4bBlIIAkQZR1NaEw9AR0lEWxp9MUEUFlRNRlBXElxbWhsIR1UFEw1HHBcPEmtHVRUVSlEEDl1GEw8QBRtNF1lVQW0GV1gIUAZEXAkPRxcKRFAaGEcOV1pYQV1HZhFcUBYDEFYIDl4MR00=
-http://sirena.mare7.co:80/live/veliero/240223/185825.m3u8
+
 
 #EXTINF:0,Dazn 1
 http://sirena.mare7.co:80/live/veliero/240223/185861.m3u8
@@ -25,3 +25,5 @@ http://sirena.mare7.co:80/live/veliero/240223/295.m3u8
 
 #EXTINF:0,Eurosport 2
 http://sirena.mare7.co:80/live/veliero/240223/296.m3u8
+
+http://sirena.mare7.co:80/live/veliero/240223/185825.m3u8
