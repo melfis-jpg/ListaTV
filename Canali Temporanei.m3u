@@ -1,6 +1,10 @@
 #EXTM3U http-user-agent="IPTVSmartersPlayer"
 
-#EXTINF:0,Sky Sport 1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/vR7S6S8.png" group-title="!! INFO SCADENZA !!",--- SCADENZA: 27 FEBBRAIO 2026 ore 16:28 ---
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+http://0.0.0.0
+
+#EXTINF:-1 tvg-id="SkySportUno.it" tvg-name="Sky Sport Uno" tvg-logo="http://service.myvisio.life:80/images/c2bf54d3ebf08cdb82414d86873a4ef2.png"
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 http://sirena.mare7.co:80/live/veliero/240223/29042.m3u8
 
@@ -24,11 +28,11 @@ http://sirena.mare7.co:80/live/veliero/240223/185862.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 http://sirena.mare7.co:80/live/veliero/240223/185832.m3u8
 
-#EXTINF:0,Sky Sport F1
+#EXTINF:-1 tvg-id="SkySportF1.it" tvg-name="Sky Sport F1" tvg-logo="http://service.myvisio.life:80/images/0f4c797d14c5c64cb7e8fd7ed5e9cd94.png"
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 http://sirena.mare7.co:80/live/veliero/240223/4497.m3u8
 
-#EXTINF:0,Sky Sport 24
+#EXTINF:-1 tvg-id="SkySport24.it" tvg-name="Sky Sport 24" tvg-logo="http://service.myvisio.life:80/images/2bcb93c48cd3ed807449f7be2e294611.png"
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 http://sirena.mare7.co/live/veliero/240223/27975.m3u8
 
