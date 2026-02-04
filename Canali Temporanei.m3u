@@ -1,6 +1,6 @@
 #EXTM3U http-user-agent="IPTVSmartersPlayer"
 
-#EXTINF:-1,--- SCADENZA: 27 FEBBRAIO 2026 ore 16:28 ---
+#EXTINF:0,--- SCADENZA: 27 FEBBRAIO 2026 ore 16:28 ---
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 http://0.0.0.0
 
