@@ -4,7 +4,7 @@
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 http://sirena.mare7.co:80/live/veliero/240223/29042.m3u8
 
-#EXTINF:-1 tvg-id="Sky Sport Calcio HD" tvg-name="Sky Sport Calcio" tvg-logo="http://service.fullapple.me:80/images/246e1890b1bc773653026b094d244051.png",Sky Sport Calcio
+#EXTINF:-1 tvg-id="Sky Sport Calcio HD" tvg-name="Sky Sport Calcio" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-calcio-it.png",Sky Sport Calcio
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 http://sirena.mare7.co:80/live/veliero/240223/185825.m3u8
 
