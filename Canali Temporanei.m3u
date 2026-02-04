@@ -4,7 +4,7 @@
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 http://0.0.0.0
 
-#EXTINF:-1 tvg-id="SkySportUno.it" tvg-name="Sky Sport Uno" tvg-logo="http://service.myvisio.life:80/images/c2bf54d3ebf08cdb82414d86873a4ef2.png"
+#EXTINF:0,tvg-id="SkySportUno.it" tvg-name="Sky Sport Uno" tvg-logo="http://service.myvisio.life:80/images/c2bf54d3ebf08cdb82414d86873a4ef2.png"
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 http://sirena.mare7.co:80/live/veliero/240223/29042.m3u8
 
