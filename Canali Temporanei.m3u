@@ -3,33 +3,43 @@
 #EXTINF:0,Sky Sport 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 http://sirena.mare7.co:80/live/veliero/240223/29042.m3u8
-#EXTINF:0,Sky Sport Calcio
+
+#EXTINF:-1 tvg-id="Sky Sport Calcio HD" tvg-name="Sky Sport Calcio" tvg-logo="http://service.fullapple.me:80/images/246e1890b1bc773653026b094d244051.png"
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 http://sirena.mare7.co:80/live/veliero/240223/185825.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="Inter" tvg-logo="http://service.myvisio.life:80/images/7ec8336709bf8a8d71d0ffff69127903.png"
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 http://sirena.mare7.co:80/live/veliero/240223/218906.m3u8
-#EXTINF:0,Dazn 1
+
+#EXTINF:-1 tvg-id="" tvg-name="Dazn Sport 1" tvg-logo="http://service.myvisio.life:80/images/c54b124c08d5d6c6d229dccaaf05d835.png"
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 http://sirena.mare7.co:80/live/veliero/240223/185861.m3u8
-#EXTINF:0,Dazn 2
+
+#EXTINF:-1 tvg-id="" tvg-name="Dazn Sport 2" tvg-logo="http://service.myvisio.life:80/images/c54b124c08d5d6c6d229dccaaf05d835.png"
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 http://sirena.mare7.co:80/live/veliero/240223/185862.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="Eventi Calcio Amazon Prime" tvg-logo="http://service.myvisio.life:80/images/e3c496d9e754e3d6c84ee1e241990ad1.png"
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 http://sirena.mare7.co:80/live/veliero/240223/185832.m3u8
+
 #EXTINF:0,Sky Sport F1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 http://sirena.mare7.co:80/live/veliero/240223/4497.m3u8
+
 #EXTINF:0,Sky Sport 24
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 http://sirena.mare7.co/live/veliero/240223/27975.m3u8
+
 #EXTINF:-1 tvg-id="SkySportAction.it" tvg-name="Sky Sport Max" tvg-logo="http://service.myvisio.life:80/images/6e52f03c60fd3c0917535cdeba9b072b.png"
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 http://sirena.mare7.co:80/live/veliero/240223/150803.m3u8
+
 #EXTINF:0,Eurosport 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 http://sirena.mare7.co:80/live/veliero/240223/295.m3u8
+
 #EXTINF:-1 tvg-id="Eurosport2.it" tvg-name="Eurosport 2" tvg-logo="http://service.myvisio.life:80/images/00295a368675482110dbe435465bba33.png"
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 http://sirena.mare7.co:80/live/veliero/240223/296.m3u8
