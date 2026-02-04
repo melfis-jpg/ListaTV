@@ -16,7 +16,7 @@ http://sirena.mare7.co:80/live/veliero/240223/218906.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 http://sirena.mare7.co:80/live/veliero/240223/185861.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="Dazn Sport 2" tvg-logo="http://servicelocandine.goldsecurepro.com:8000/images/daznExclusive.png",Dazn Sport 2
+#EXTINF:-1 tvg-id="" tvg-name="Dazn Sport 2" tvg-logo="http://bs-update.ddns.net/Android/logos/dazn-sport-2.png",Dazn Sport 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 http://sirena.mare7.co:80/live/veliero/240223/185862.m3u8
 
