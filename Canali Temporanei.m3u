@@ -32,8 +32,10 @@ http://sirena.mare7.co:80/live/veliero/240223/4497.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 http://sirena.mare7.co:80/live/veliero/240223/27975.m3u8
 
-#EXTINF:-1 tvg-id="SkySportAction.it" tvg-name="Sky Sport Max" tvg-logo="https://raw.githubusercontent.com/Fazzoni/it-logos/master/logos/sky-sport-max.png",Sky Sport Max
+#EXTINF:-1 tvg-id="SkySportMax.it" tvg-name="Sky Sport Max" tvg-logo="https://i.postimg.cc/T3m880S8/sky-sport-max.png",Sky Sport Max
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 http://sirena.mare7.co:80/live/veliero/240223/150803.m3u8
+
 
 #EXTINF:-1 tvg-id="Eurosport1.it" tvg-name="Eurosport 1" tvg-logo="http://service.myvisio.life:80/images/8b09226975f258b7124e2ce9fed72537.png",Eurosport 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
