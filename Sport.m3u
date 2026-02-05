@@ -4,13 +4,8 @@
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 http://0.0.0.0
 
- #EXTINF:-1 tvg-logo="https://i.imgur.com/vR7S6S8.png" group-title="!! INFO SCADENZA !!",[OK] Super!
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-http://495c5a85d9074f29acffeaea9e0215eb.msvdn.net/super/super_main/super_main_hbbtv/playlist.m3u8
 
-
-
- #EXTINF:-1 tvg-id="" tvg-name="----- SKY SPORT -----" tvg-logo="http://servicelocandine.goldsecurepro.com:8000/images/31d52abda89527246184ec524330e337.png" group-title="Sport",----- SKY SPORT -----
+#EXTINF:-1 tvg-id="" tvg-name="----- SKY SPORT -----" tvg-logo="http://servicelocandine.goldsecurepro.com:8000/images/31d52abda89527246184ec524330e337.png" group-title="Sport",----- SKY SPORT -----
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 http://sirena.mare7.co:80/live/veliero/240223/22770.m3u8
 
