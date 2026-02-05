@@ -4,20 +4,16 @@
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 http://0.0.0.0
 
- #EXTINF:-1 tvg-logo="https://i.imgur.com/vR7S6S8.png" group-title="!! INFO SCADENZA !!",[OK] Super!
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-http://495c5a85d9074f29acffeaea9e0215eb.msvdn.net/super/super_main/super_main_hbbtv/playlist.m3u8
-
-
+ 
  #EXTINF:-1 tvg-id="" tvg-name="----- SKY CINEMA -----" tvg-logo="http://service.fullapple.me:80/images/31d52abda89527246184ec524330e337.png" group-title="Cinema",----- SKY CINEMA -----
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 http://sirena.mare7.co:80/live/veliero/240223/22760.m3u8
 
 
- #EXTINF:-1 tvg-id="Sky.Cinema.Uno.it" tvg-name="Sky Cinema Uno FHD" tvg-logo="http://service.myvisio.life:80/images/8249e7837b2c603ca86f826b621cb763.png" group-title="Cinema",Sky Cinema Uno FHD
+#EXTINF:-1 tvg-id="Sky.Cinema.Uno.it" tvg-name="Sky Cinema Uno FHD" tvg-logo="http://service.myvisio.life:80/images/8249e7837b2c603ca86f826b621cb763.png" group-title="Cinema",Sky Cinema Uno FHD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 http://sirena.mare7.co:80/live/veliero/240223/4496.m3u8
- #EXTINF:-1 tvg-id="Sky.Cinema.Uno.it" tvg-name="Sky Cinema Uno HD" tvg-logo="http://service.myvisio.life:80/images/d6e15abbac47edd29a81299ef791494e.png" group-title="Cinema",Sky Cinema Uno HD
+#EXTINF:-1 tvg-id="Sky.Cinema.Uno.it" tvg-name="Sky Cinema Uno HD" tvg-logo="http://service.myvisio.life:80/images/d6e15abbac47edd29a81299ef791494e.png" group-title="Cinema",Sky Cinema Uno HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 http://sirena.mare7.co:80/live/veliero/240223/48863.m3u8
  #EXTINF:-1 tvg-id="SkyCinemaUno.it" tvg-name="Sky Cinema Uno SD" tvg-logo="http://bs-update.ddns.net/Android/logos/skycinema-uno-hd.png" group-title="Sky Italia SD",Sky Cinema Uno SD
