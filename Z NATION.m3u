@@ -1,4 +1,4 @@
-#EXTM3U http-user-agent="IPTVSmartersPlayer" x-tvg-url="http://sirena.mare7.co/xmltv.php?username=veliero&password=240223"
+#EXTM3U x-tvg-url="http://sirena.mare7.co/xmltv.php?username=veliero&password=240223" USER-AGENT="IPTVSmartersPlayer"
 
 #EXTINF:-1 tvg-id="" tvg-name="Z Nation S03 E01" tvg-logo="http://servicelocandine.goldsecurepro.com:8000/images/08582918cba3de2dc49cd38826e953ba.jpg" group-title="Serie Netflix",Z Nation S03 E01
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
