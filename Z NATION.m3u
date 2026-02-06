@@ -1,1 +1,45 @@
+#EXTM3U http-user-agent="IPTVSmartersPlayer" x-tvg-url="http://sirena.mare7.co/xmltv.php?username=veliero&password=240223"
+
+#EXTINF:-1 tvg-id="" tvg-name="Z Nation S03 E01" tvg-logo="http://servicelocandine.goldsecurepro.com:8000/images/08582918cba3de2dc49cd38826e953ba.jpg" group-title="Serie Netflix",Z Nation S03 E01
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+http://sirena.mare7.co:80/series/veliero/240223/134343.mkv
+ #EXTINF:-1 tvg-id="" tvg-name="Z Nation S03 E02" tvg-logo="http://servicelocandine.goldsecurepro.com:8000/images/4160f72ca50252b8af06574f70e9a0cc.jpg" group-title="Serie Netflix",Z Nation S03 E02
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+http://sirena.mare7.co:80/series/veliero/240223/134341.mkv
+ #EXTINF:-1 tvg-id="" tvg-name="Z Nation S03 E03" tvg-logo="http://servicelocandine.goldsecurepro.com:8000/images/f396737298d62c556f9c802b8b766563.jpg" group-title="Serie Netflix",Z Nation S03 E03
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+http://sirena.mare7.co:80/series/veliero/240223/134337.mkv
+ #EXTINF:-1 tvg-id="" tvg-name="Z Nation S03 E04" tvg-logo="http://servicelocandine.goldsecurepro.com:8000/images/bbe87b881ff329583ab0aa066525ee5f.jpg" group-title="Serie Netflix",Z Nation S03 E04
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+http://sirena.mare7.co:80/series/veliero/240223/134335.mkv
+ #EXTINF:-1 tvg-id="" tvg-name="Z Nation S03 E05" tvg-logo="http://servicelocandine.goldsecurepro.com:8000/images/6144883f16a2918efafaaeded19301cf.jpg" group-title="Serie Netflix",Z Nation S03 E05
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+http://sirena.mare7.co:80/series/veliero/240223/134344.mkv
+ #EXTINF:-1 tvg-id="" tvg-name="Z Nation S03 E06" tvg-logo="http://servicelocandine.goldsecurepro.com:8000/images/af9ffc7ceafe004870faa1e4701960b3.jpg" group-title="Serie Netflix",Z Nation S03 E06
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+http://sirena.mare7.co:80/series/veliero/240223/134332.mkv
+ #EXTINF:-1 tvg-id="" tvg-name="Z Nation S03 E07" tvg-logo="http://servicelocandine.goldsecurepro.com:8000/images/0e15bb3e7b8af4021466157cf357248e.jpg" group-title="Serie Netflix",Z Nation S03 E07
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+http://sirena.mare7.co:80/series/veliero/240223/134333.mkv
+ #EXTINF:-1 tvg-id="" tvg-name="Z Nation S03 E08" tvg-logo="http://servicelocandine.goldsecurepro.com:8000/images/b146179b8c77497f80d2400974278e6b.jpg" group-title="Serie Netflix",Z Nation S03 E08
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+http://sirena.mare7.co:80/series/veliero/240223/134336.mkv
+ #EXTINF:-1 tvg-id="" tvg-name="Z Nation S03 E09" tvg-logo="http://servicelocandine.goldsecurepro.com:8000/images/5f7ff953473272d6e9afa32b53aa9f8c.jpg" group-title="Serie Netflix",Z Nation S03 E09
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+http://sirena.mare7.co:80/series/veliero/240223/134338.mkv
+ #EXTINF:-1 tvg-id="" tvg-name="Z Nation S03 E10" tvg-logo="http://servicelocandine.goldsecurepro.com:8000/images/91eebf8c6d4456c392de1ded981e8fd2.jpg" group-title="Serie Netflix",Z Nation S03 E10
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+http://sirena.mare7.co:80/series/veliero/240223/134334.mkv
+ #EXTINF:-1 tvg-id="" tvg-name="Z Nation S03 E11" tvg-logo="http://servicelocandine.goldsecurepro.com:8000/images/df860f4aac0f1622e11a7f05c7f52b78.jpg" group-title="Serie Netflix",Z Nation S03 E11
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+http://sirena.mare7.co:80/series/veliero/240223/134339.mkv
+ #EXTINF:-1 tvg-id="" tvg-name="Z Nation S03 E12" tvg-logo="http://servicelocandine.goldsecurepro.com:8000/images/11973c034135087fdb79c3c1f61763ab.jpg" group-title="Serie Netflix",Z Nation S03 E12
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+http://sirena.mare7.co:80/series/veliero/240223/134345.mkv
+ #EXTINF:-1 tvg-id="" tvg-name="Z Nation S03 E13" tvg-logo="http://servicelocandine.goldsecurepro.com:8000/images/af01cf5117d09e9c9775c85e5a50881c.jpg" group-title="Serie Netflix",Z Nation S03 E13
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+http://sirena.mare7.co:80/series/veliero/240223/134342.mkv
+ #EXTINF:-1 tvg-id="" tvg-name="Z Nation S03 E14" tvg-logo="http://servicelocandine.goldsecurepro.com:8000/images/22f882057ad15130522cf3dae17dee41.jpg" group-title="Serie Netflix",Z Nation S03 E14
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+http://sirena.mare7.co:80/series/veliero/240223/134340.mkv
 
