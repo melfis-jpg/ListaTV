@@ -1,4 +1,4 @@
-#EXTM3U http-user-agent="IPTVSmartersPlayer" 
+#EXTM3U http-user-agent="IPTVSmartersPlayer" x-tvg-url="http://sirena.mare7.co/xmltv.php?username=veliero&password=240223"
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/vR7S6S8.png" group-title="!! INFO SCADENZA !!",--- SCADENZA: 27 FEBBRAIO 2026 ore 16:28 ---
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
