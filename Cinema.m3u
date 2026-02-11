@@ -1,8 +1,8 @@
 #EXTM3U x-tvg-url="http://sirena.mare7.co/xmltv.php?username=veliero&password=240223" USER-AGENT="IPTVSmartersPlayer"
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/vR7S6S8.png" group-title="!! INFO SCADENZA !!",--- SCADENZA: 27 FEBBRAIO 2026 ore 16:28 ---
+#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/564/564619.png" group-title="!! INFO SCADENZA !!",--- SCADENZA: 27 FEBBRAIO 2026 ore 16:28 ---
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-http://0.0.0.0
+http://sirena.mare7.co/info
 
  
  #EXTINF:-1 tvg-id="" tvg-name="----- SKY CINEMA -----" tvg-logo="http://service.fullapple.me:80/images/31d52abda89527246184ec524330e337.png" group-title="Cinema",----- SKY CINEMA -----
