@@ -36,10 +36,10 @@ http://sirena.mare7.co:80/live/veliero/240223/27975.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 http://sirena.mare7.co:80/live/veliero/240223/150803.m3u8
 
-#EXTINF:-1 tvg-id="Eurosport1.it" tvg-name="Eurosport 1" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/eurosport-1-it.png",Eurosport 1
+#EXTINF:-1 tvg-id="Eurosport1.it" tvg-name="Eurosport 1" tvg-logo="http://service.myvisio.life:80/images/8b09226975f258b7124e2ce9fed72537.png",Eurosport 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 http://sirena.mare7.co:80/live/veliero/240223/295.m3u8
 
-#EXTINF:-1 tvg-id="Eurosport2.it" tvg-name="Eurosport 2" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/eurosport-2-it.png",Eurosport 2
+#EXTINF:-1 tvg-id="Eurosport2.it" tvg-name="Eurosport 2" tvg-logo="http://service.myvisio.life:80/images/00295a368675482110dbe435465bba33.png",Eurosport 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 http://sirena.mare7.co:80/live/veliero/240223/296.m3u8
