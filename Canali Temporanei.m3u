@@ -1,34 +1,34 @@
 #EXTM3U x-tvg-url="http://sirena.mare7.co/xmltv.php?username=veliero&password=240223" USER-AGENT="IPTVSmartersPlayer"
 
-#EXTINF:-1 tvg-id="SkySportUno.it" tvg-name="Sky Sport Uno" tvg-logo="http://service.myvisio.life:80/images/c2bf54d3ebf08cdb82414d86873a4ef2.png",Sky Sport Uno
+#EXTINF:-1 tvg-id="SkySportUno.it" tvg-name="Sky Sport Uno" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-uno-it.png",Sky Sport Uno
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 http://sirena.mare7.co:80/live/veliero/240223/29042.m3u8
 
-#EXTINF:-1 tvg-id="Sky Sport Calcio HD" tvg-name="Sky Sport Calcio" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-calcio-it.png",Sky Sport Calcio
+#EXTINF:-1 tvg-id="SkySportCalcio.it" tvg-name="Sky Sport Calcio" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-calcio-it.png",Sky Sport Calcio
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 http://sirena.mare7.co:80/live/veliero/240223/185825.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="Inter" tvg-logo="http://service.myvisio.life:80/images/7ec8336709bf8a8d71d0ffff69127903.png",Inter
+#EXTINF:-1 tvg-id="Inter.it" tvg-name="Inter" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/inter-tv-it.png",Inter
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 http://sirena.mare7.co:80/live/veliero/240223/218906.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="Dazn Sport 1" tvg-logo="http://service.myvisio.life:80/images/c54b124c08d5d6c6d229dccaaf05d835.png",Dazn Sport 1
+#EXTINF:-1 tvg-id="DAZN1.it" tvg-name="Dazn Sport 1" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/dazn-1-it.png",Dazn Sport 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 http://sirena.mare7.co:80/live/veliero/240223/185861.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="Dazn Sport 2" tvg-logo="http://service.fullapple.me:8000/images/2a67d8b8d2533fbeb7d477e7cc472e3f.png",Dazn Sport 2
+#EXTINF:-1 tvg-id="DAZN2.it" tvg-name="Dazn Sport 2" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/dazn-2-it.png",Dazn Sport 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 http://sirena.mare7.co:80/live/veliero/240223/185862.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="Eventi Calcio Amazon Prime" tvg-logo="http://service.myvisio.life:80/images/e3c496d9e754e3d6c84ee1e241990ad1.png",Eventi Calcio Amazon Prime
+#EXTINF:-1 tvg-id="AmazonPrime.it" tvg-name="Eventi Calcio Amazon Prime" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/prime-video-it.png",Eventi Calcio Amazon Prime
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 http://sirena.mare7.co:80/live/veliero/240223/185832.m3u8
 
-#EXTINF:-1 tvg-id="SkySportF1.it" tvg-name="Sky Sport F1" tvg-logo="http://service.myvisio.life:80/images/0f4c797d14c5c64cb7e8fd7ed5e9cd94.png",Sky Sport F1
+#EXTINF:-1 tvg-id="SkySportF1.it" tvg-name="Sky Sport F1" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-f1-it.png",Sky Sport F1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 http://sirena.mare7.co:80/live/veliero/240223/4497.m3u8
 
-#EXTINF:-1 tvg-id="SkySport24.it" tvg-name="Sky Sport 24" tvg-logo="http://service.myvisio.life:80/images/2bcb93c48cd3ed807449f7be2e294611.png",Sky Sport 24
+#EXTINF:-1 tvg-id="SkySport24.it" tvg-name="Sky Sport 24" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-24-it.png",Sky Sport 24
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 http://sirena.mare7.co:80/live/veliero/240223/27975.m3u8
 
@@ -36,10 +36,10 @@ http://sirena.mare7.co:80/live/veliero/240223/27975.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 http://sirena.mare7.co:80/live/veliero/240223/150803.m3u8
 
-#EXTINF:-1 tvg-id="Eurosport1.it" tvg-name="Eurosport 1"tvg-logo="http://service.myvisio.life:80/images/8b09226975f258b7124e2ce9fed72537.png",Eurosport 1
+#EXTINF:-1 tvg-id="Eurosport1.it" tvg-name="Eurosport 1" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/eurosport-1-it.png",Eurosport 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 http://sirena.mare7.co:80/live/veliero/240223/295.m3u8
 
-#EXTINF:-1 tvg-id="Eurosport2.it" tvg-name="Eurosport 2" tvg-logo="http://service.myvisio.life:80/images/00295a368675482110dbe435465bba33.png",Eurosport 2
+#EXTINF:-1 tvg-id="Eurosport2.it" tvg-name="Eurosport 2" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/eurosport-2-it.png",Eurosport 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 http://sirena.mare7.co:80/live/veliero/240223/296.m3u8
