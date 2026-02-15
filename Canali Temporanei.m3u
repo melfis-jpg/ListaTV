@@ -44,7 +44,7 @@ http://sirena.mare7.co:80/live/veliero/240223/27975.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 http://sirena.mare7.co:80/live/veliero/240223/150803.m3u8
 
-#EXTINF:-1 tvg-id="Eurosport1.it" tvg-name="Eurosport 1" tvg-logo="https://e7.pngegg.com/pngimages/917/857/png-clipart-eurosport-1-logo-lyngsat-television-hot-bird-13b-discovery-channel-logo-purple-television.png",Eurosport 1
+#EXTINF:-1 tvg-id="Eurosport1.it" tvg-name="Eurosport 1" tvg-logo="https://raw.githubusercontent.com/melfis-jpg/ListaTV/refs/heads/main/Eurosport_1_logo.jpg",Eurosport 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 http://sirena.mare7.co:80/live/veliero/240223/295.m3u8
 
