@@ -32,8 +32,8 @@ https://sport-live-lc93.onrender.com/canale?id=185862
 
 #EXTINF:-1 tvg-id="AmazonPrime.it" tvg-name="Eventi Calcio Amazon Prime" tvg-logo="http://service.myvisio.life:80/images/e3c496d9e754e3d6c84ee1e241990ad1.png",Eventi Calcio Amazon Prime
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-https://sport-live-lc93.onrender.com/canale?id=185832
-#http://sirena.mare7.co:80/live/veliero/240223/185832.m3u8#
+https://live-1-4x9a.onrender.com/canale?id=148967
+#http://sirena.mare7.co:80/live/veliero/240223/148967.m3u8#
 
 #EXTINF:-1 tvg-id="SkySportF1.it" tvg-name="Sky Sport F1" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-f1-it.png",Sky Sport F1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
