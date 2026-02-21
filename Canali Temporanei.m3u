@@ -15,7 +15,7 @@ https://live-1-4x9a.onrender.com/canale?id=185825
 https://live-1-4x9a.onrender.com/canale?id=218906
 #http://sirena.mare7.co:80/live/veliero/240223/218906.m3u8#
 
-#EXTINF:-1 tvg-id="DAZNZona.it" tvg-name="Zona Dazn Serie A" tvg-logo="https://raw.githubusercontent.com/melfis-jpg/ListaTV/refs/heads/main/Loghi/zona-dazn-it-logo.png",Zona Dazn Serie A
+#EXTINF:-1 tvg-id="DAZNZona.it" tvg-name="Zona Dazn Serie A" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/zona-dazn-it.png",Zona Dazn Serie A
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 https://live-1-4x9a.onrender.com/canale?id=149099
 #http://sirena.mare7.co:80/live/veliero/240223/149099.m3u8#
