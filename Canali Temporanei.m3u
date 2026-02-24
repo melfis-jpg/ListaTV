@@ -50,7 +50,7 @@ https://live-1-4x9a.onrender.com/canale?id=27975
 https://live-1-4x9a.onrender.com/canale?id=150803
 #http://sirena.mare7.co:80/live/veliero/240223/150803.m3u8#
 
-#EXTINF:-1 tvg-id="Eurosport1.it" tvg-name="Eurosport 1" tvg-logo="https://raw.githubusercontent.com/melfis-jpg/ListaTV/refs/heads/main/Prova%20Loghi/Eurosport_HD_since_2015.png",Eurosport 1
+#EXTINF:-1 tvg-id="Eurosport1.it" tvg-name="Eurosport 1" tvg-logo="https://raw.githubusercontent.com/melfis-jpg/ListaTV/5bf4d6a2efeae65a6723c71ce76ad25d4289bbf2/Loghi%20Scaricati/Eurosport%201%20HD.svg",Eurosport 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 https://live-1-4x9a.onrender.com/canale?id=295
 #http://sirena.mare7.co:80/live/veliero/240223/295.m3u8#
