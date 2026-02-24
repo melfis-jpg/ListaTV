@@ -20,12 +20,12 @@ https://live-1-4x9a.onrender.com/canale?id=218906
 https://live-1-4x9a.onrender.com/canale?id=149099
 #http://sirena.mare7.co:80/live/veliero/240223/149099.m3u8#
 
-#EXTINF:-1 tvg-id="DAZN1.it" tvg-name="Dazn Sport 1" tvg-logo="https://raw.githubusercontent.com/melfis-jpg/ListaTV/refs/heads/main/Prova%20Loghi/photo_2026-02-23_18-18-13-removebg-preview.png",Dazn Sport 1
+#EXTINF:-1 tvg-id="DAZN1.it" tvg-name="Dazn Sport 1" tvg-logo="http://servicelocandine.goldsecurepro.com:8000/images/c54b124c08d5d6c6d229dccaaf05d835.png",Dazn Sport 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 https://live-1-4x9a.onrender.com/canale?id=185861
 #http://sirena.mare7.co:80/live/veliero/240223/185861.m3u8#
 
-#EXTINF:-1 tvg-id="DAZN2.it" tvg-name="Dazn Sport 2" tvg-logo="https://raw.githubusercontent.com/melfis-jpg/ListaTV/refs/heads/main/Prova%20Loghi/photo_2026-02-23_18-18-14-removebg-preview.png",Dazn Sport 2
+#EXTINF:-1 tvg-id="DAZN2.it" tvg-name="Dazn Sport 2" tvg-logo="http://servicelocandine.goldsecurepro.com:8000/images/2a67d8b8d2533fbeb7d477e7cc472e3f.png",Dazn Sport 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 https://live-1-4x9a.onrender.com/canale?id=185862
 #http://sirena.mare7.co:80/live/veliero/240223/185862.m3u8#
@@ -55,7 +55,7 @@ https://live-1-4x9a.onrender.com/canale?id=150803
 https://live-1-4x9a.onrender.com/canale?id=295
 #http://sirena.mare7.co:80/live/veliero/240223/295.m3u8#
 
-#EXTINF:-1 tvg-id="Eurosport2.it" tvg-name="Eurosport 2" tvg-logo="https://raw.githubusercontent.com/melfis-jpg/ListaTV/refs/heads/main/Prova%20Loghi/IMG_20260223_221733_646-removebg-preview.png",Eurosport 2
+#EXTINF:-1 tvg-id="Eurosport2.it" tvg-name="Eurosport 2" tvg-logo="https://raw.githubusercontent.com/melfis-jpg/ListaTV/6273db3eebb4459d0fa079a60b14b74bcea159dc/Loghi%20Scaricati/Eurosport%202%20HD.svg",Eurosport 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 https://live-1-4x9a.onrender.com/canale?id=296
 #http://sirena.mare7.co:80/live/veliero/240223/296.m3u8#
