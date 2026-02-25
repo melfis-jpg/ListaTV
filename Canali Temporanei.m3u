@@ -30,7 +30,7 @@ https://live-1-4x9a.onrender.com/canale?id=185861
 https://live-1-4x9a.onrender.com/canale?id=185862
 #http://sirena.mare7.co:80/live/veliero/240223/185862.m3u8#
 
-#EXTINF:-1 tvg-id="AmazonPrimeVideo.it" tvg-name="Eventi Calcio Amazon Prime" tvg-logo="https://raw.githubusercontent.com/melfis-jpg/ListaTV/refs/heads/main/Loghi/Prime_Video_logo_(2024).svg.png",Eventi Calcio Amazon Prime
+#EXTINF:-1 tvg-id="Amazon.Champions" tvg-name="Eventi Calcio Amazon Prime" tvg-logo="https://raw.githubusercontent.com/melfis-jpg/ListaTV/refs/heads/main/Loghi/Prime_Video_logo_(2024).svg.png",Eventi Calcio Amazon Prime
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 https://live-1-4x9a.onrender.com/canale?id=148967
 #http://sirena.mare7.co:80/live/veliero/240223/148967.m3u8#
