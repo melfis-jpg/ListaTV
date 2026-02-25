@@ -6,7 +6,8 @@
   </channel>
 
   <programme start="20260225200000 +0100" stop="20260225230000 +0100" channel="Amazon.Champions">
-    <title>Champions League: LIVE Match</title>
-    <desc>Diretta esclusiva Amazon Prime Video - Match Day</desc>
+    <title>Champions League: [NOME PARTITA]</title>
+    <desc>Diretta esclusiva Amazon Prime Video. Telecronaca e commenti tecnici. Analisi dallo stadio e interviste pre-partita.</desc>
   </programme>
-</tv>
+
+  </tv>
