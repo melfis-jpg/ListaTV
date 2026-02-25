@@ -20,12 +20,12 @@ https://live-1-4x9a.onrender.com/canale?id=218906
 https://live-1-4x9a.onrender.com/canale?id=149099
 #http://sirena.mare7.co:80/live/veliero/240223/149099.m3u8#
 
-#EXTINF:-1 tvg-id="DAZNSport1.it" tvg-name="Dazn Sport 1" tvg-logo="http://servicelocandine.goldsecurepro.com:8000/images/c54b124c08d5d6c6d229dccaaf05d835.png",Dazn Sport 1
+#EXTINF:-1 tvg-id="DAZN1.it" tvg-name="Dazn Sport 1" tvg-logo="http://servicelocandine.goldsecurepro.com:8000/images/c54b124c08d5d6c6d229dccaaf05d835.png",Dazn Sport 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 https://live-1-4x9a.onrender.com/canale?id=185861
 #http://sirena.mare7.co:80/live/veliero/240223/185861.m3u8#
 
-#EXTINF:-1 tvg-id="DAZNSport2.it" tvg-name="Dazn Sport 2" tvg-logo="http://servicelocandine.goldsecurepro.com:8000/images/2a67d8b8d2533fbeb7d477e7cc472e3f.png",Dazn Sport 2
+#EXTINF:-1 tvg-id="DAZN2.it" tvg-name="Dazn Sport 2" tvg-logo="http://servicelocandine.goldsecurepro.com:8000/images/2a67d8b8d2533fbeb7d477e7cc472e3f.png",Dazn Sport 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 https://live-1-4x9a.onrender.com/canale?id=185862
 #http://sirena.mare7.co:80/live/veliero/240223/185862.m3u8#
