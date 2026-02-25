@@ -28,7 +28,7 @@
     <display-name>DAZN Sport 2</display-name>
   </channel>
 
-  <programme start="20260227204500 +0100" stop="20260227224500 +0100" channel="Inter.it">
+  <programme start="20260227204500 +0100" stop="20260227224500 +0100" channel="INTER.SerieA">
     <title>Inter vs Squadra (LIVE)</title>
     <desc>Diretta esclusiva match Inter</desc>
   </programme>
@@ -38,14 +38,15 @@
     <desc>Esclusiva Amazon Prime Video</desc>
   </programme>
 
-  <programme start="20260228180000 +0100" stop="20260228200000 +0100" channel="DAZNSport1.it">
+  <programme start="20260228180000 +0100" stop="20260228200000 +0100" channel="DAZN1.it">
     <title>Serie A: Match DAZN 1</title>
     <desc>Diretta zona DAZN</desc>
   </programme>
 
-  <programme start="20260228180000 +0100" stop="20260228200000 +0100" channel="DAZNSport2.it">
+  <programme start="20260228180000 +0100" stop="20260228200000 +0100" channel="DAZN2.it">
     <title>Serie A: Match DAZN 2</title>
     <desc>Diretta zona DAZN</desc>
  </programme>
 
 </tv>
+
