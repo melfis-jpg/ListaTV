@@ -5,9 +5,8 @@
     <icon src="https://raw.githubusercontent.com/melfis-jpg/ListaTV/refs/heads/main/Loghi/Prime_Video_logo_(2024).svg.png"/>
   </channel>
 
-  <programme start="20260225200000 +0100" stop="20260225230000 +0100" channel="Amazon.Champions">
-    <title>Champions League: [NOME PARTITA]</title>
-    <desc>Diretta esclusiva Amazon Prime Video. Telecronaca e commenti tecnici. Analisi dallo stadio e interviste pre-partita.</desc>
+  <programme start="20260225193000 +0100" stop="20260225233000 +0100" channel="Amazon.Champions">
+    <title>Champions League: Inter - Arsenal (DIRETTA)</title>
+    <desc>Dallo Stadio San Siro di Milano, i nerazzurri sfidano i Gunners per gli ottavi di finale di Champions League. Telecronaca di Sandro Piccinini e Massimo Ambrosini. Pre-partita dalle 19:30.</desc>
   </programme>
-
-  </tv>
+</tv>
