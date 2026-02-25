@@ -1,5 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv>
+  <channel id="INTER.SerieA">
+    <display-name>Inter Match</display-name>
+    <icon src="https://iptv-epg.org/logos/Italy/INTER.SerieA.png"/>
+  </channel>
+  <channel id="AmazonPrimeVideo.it">
+    <display-name>Amazon Prime Calcio</display-name>
+  </channel>
+  <channel id="DAZN1.it">
+    <display-name>DAZN Sport 1</display-name>
+  </channel>
+  <channel id="DAZN2.it">
+    <display-name>DAZN Sport 2</display-name>
+  </channel>
+
+  <programme start="20260227204500 +0100" stop="20260227224500 +0100" chan…
   <channel id="Inter.it">
     <display-name>Inter Match</display-name>
   </channel>
