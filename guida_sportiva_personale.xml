@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tv>
+  <channel id="Inter.it">
+    <display-name>Inter Match</display-name>
+  </channel>
+  <channel id="AmazonPrimeVideo.it">
+    <display-name>Amazon Prime Calcio</display-name>
+  </channel>
+  <channel id="DAZNSport1.it">
+    <display-name>DAZN Sport 1</display-name>
+  </channel>
+  <channel id="DAZNSport2.it">
+    <display-name>DAZN Sport 2</display-name>
+  </channel>
+
+  <programme start="20260227204500 +0100" stop="20260227224500 +0100" channel="Inter.it">
+    <title>Inter vs Squadra (LIVE)</title>
+    <desc>Diretta esclusiva match Inter</desc>
+  </programme>
+
+  <programme start="20260225210000 +0100" stop="20260225230000 +0100" channel="AmazonPrimeVideo.it">
+    <title>Champions League: Amazon Match</title>
+    <desc>Esclusiva Amazon Prime Video</desc>
+  </programme>
+
+  <programme start="20260228180000 +0100" stop="20260228200000 +0100" channel="DAZNSport1.it">
+    <title>Serie A: Match DAZN 1</title>
+    <desc>Diretta zona DAZN</desc>
+  </programme>
+
+  <programme start="20260228180000 +0100" stop="20260228200000 +0100" channel="DAZNSport2.it">
+    <title>Serie A: Match DAZN 2</title>
+    <desc>Diretta zona DAZN</desc>
+ </programme>
+
+</tv>
