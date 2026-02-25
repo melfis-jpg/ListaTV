@@ -1,8 +1,12 @@
-<channel id="Amazon.Champions">
-    <display-name>Amazon Prime Champions</display-name>
-</channel>
+<?xml version="1.0" encoding="UTF-8"?>
+<tv>
+  <channel id="Amazon.Champions">
+    <display-name>Amazon Prime Calcio</display-name>
+    <icon src="https://raw.githubusercontent.com/melfis-jpg/ListaTV/refs/heads/main/Loghi/Prime_Video_logo_(2024).svg.png"/>
+  </channel>
 
-<programme start="20260225210000 +0100" stop="20260225230000 +0100" channel="Amazon.Champions">
-    <title>Champions League: Diretta</title>
-    <desc>Match in esclusiva Amazon Prime</desc>
-</programme>
+  <programme start="20260225200000 +0100" stop="20260225230000 +0100" channel="Amazon.Champions">
+    <title>Champions League: LIVE Match</title>
+    <desc>Diretta esclusiva Amazon Prime Video - Match Day</desc>
+  </programme>
+</tv>
