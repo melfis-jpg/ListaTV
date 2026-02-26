@@ -1,4 +1,4 @@
-#EXTM3U x-tvg-url="https://raw.githubusercontent.com/melfis-jpg/ListaTV/refs/heads/main/guida_sportiva_personale.xml,https://iptv-epg.org/files/epg-it.xml,http://sirena.mare7.co/xmltv.php?username=veliero&password=240223" USER-AGENT="IPTVSmartersPlayer"
+#EXTM3U x-tvg-url="un attimo di attesa" USER-AGENT="IPTVSmartersPlayer"
 
 #EXTINF:-1 tvg-id="SkySportUno.it" tvg-name="Sky Sport Uno" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-uno-it.png",Sky Sport Uno
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
