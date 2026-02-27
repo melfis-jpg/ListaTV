@@ -1,4 +1,4 @@
-#EXTM3U x-tvg-url="https://sport-live-lc93.onrender.com/xmltv" USER-AGENT="IPTVSmartersPlayer"
+#EXTM3U x-tvg-url="xmltv.php" USER-AGENT="IPTVSmartersPlayer"
 
 #EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/564/564619.png" group-title="!! INFO SCADENZA !!",--- SCADENZA: 10 AGOSTO 2026 ---
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
