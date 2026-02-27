@@ -1,1 +1,49 @@
-qua poi inserisco
+#EXTM3U x-tvg-url="https://sport-live-lc93.onrender.com/xmltv.php" USER-AGENT="IPTVSmartersPlayer"
+
+#EXTINF:-1 tvg-id="SkySportUno.it" tvg-name="Sky Sport Uno" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-uno-it.png",Sky Sport Uno
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+http://drfast2.xyz/live/apagfro/sasy/29042.ts
+
+#EXTINF:-1 tvg-id="SkySportCalcio.it" tvg-name="Sky Sport Calcio" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-calcio-it.png",Sky Sport Calcio
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+http://drfast2.xyz/live/apagfro/sasy/185825.ts
+
+#EXTINF:-1 tvg-id="Inter.SerieA" tvg-name="Inter" tvg-logo="http://service.myvisio.life:80/images/7ec8336709bf8a8d71d0ffff69127903.png",Inter
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+http://drfast2.xyz/live/apagfro/sasy/218906.ts
+
+#EXTINF:-1 tvg-id="DAZNZona.it" tvg-name="Zona Dazn Serie A" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/zona-dazn-it.png",Zona Dazn Serie A
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+http://drfast2.xyz/live/apagfro/sasy/149099.ts
+
+#EXTINF:-1 tvg-id="DAZN1.it" tvg-name="Dazn Sport 1" tvg-logo="http://servicelocandine.goldsecurepro.com:8000/images/c54b124c08d5d6c6d229dccaaf05d835.png",Dazn Sport 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+http://drfast2.xyz/live/apagfro/sasy/185861.ts
+
+#EXTINF:-1 tvg-id="DAZN2.it" tvg-name="Dazn Sport 2" tvg-logo="http://servicelocandine.goldsecurepro.com:8000/images/2a67d8b8d2533fbeb7d477e7cc472e3f.png",Dazn Sport 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+http://drfast2.xyz/live/apagfro/sasy/185862.ts
+
+#EXTINF:-1 tvg-id="Amazon.Champions" tvg-name="Eventi Calcio Amazon Prime" tvg-logo="https://raw.githubusercontent.com/melfis-jpg/ListaTV/refs/heads/main/Loghi/Prime_Video_logo_(2024).svg.png",Eventi Calcio Amazon Prime
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+http://drfast2.xyz/live/apagfro/sasy/148967.ts
+
+#EXTINF:-1 tvg-id="SkySportF1.it" tvg-name="Sky Sport F1" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-f1-it.png",Sky Sport F1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+http://drfast2.xyz/live/apagfro/sasy/4497.ts
+
+#EXTINF:-1 tvg-id="SkySport24.it" tvg-name="Sky Sport 24" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-24-it.png",Sky Sport 24
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+http://drfast2.xyz/live/apagfro/sasy/27975.ts
+
+#EXTINF:-1 tvg-id="SkySportMax.it" tvg-name="Sky Sport Max" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-max-it.png",Sky Sport Max
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+http://drfast2.xyz/live/apagfro/sasy/150803.ts
+
+#EXTINF:-1 tvg-id="Eurosport1.it" tvg-name="Eurosport 1" tvg-logo="https://raw.githubusercontent.com/melfis-jpg/ListaTV/5bf4d6a2efeae65a6723c71ce76ad25d4289bbf2/Loghi%20Scaricati/Eurosport%201%20HD.svg",Eurosport 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+http://drfast2.xyz/live/apagfro/sasy/295.ts
+
+#EXTINF:-1 tvg-id="Eurosport2.it" tvg-name="Eurosport 2" tvg-logo="https://raw.githubusercontent.com/melfis-jpg/ListaTV/6273db3eebb4459d0fa079a60b14b74bcea159dc/Loghi%20Scaricati/Eurosport%202%20HD.svg",Eurosport 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+http://drfast2.xyz/live/apagfro/sasy/296.ts
