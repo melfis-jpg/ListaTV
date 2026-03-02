@@ -509,8 +509,7 @@ http://sirena.mare7.co:80/live/veliero/240223/639.ts
 
  #EXTINF:-1 tvg-id="" tvg-name="----- PRIMAFILA -----" tvg-logo="http://service.fullapple.me:8000/images/410cf889fabc224e145b0c49ea8d1bc1.png" group-title="Primafila",----- PRIMAFILA -----
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-http://sirena.mare7.co:80/live/veliero/240223/51996.ts
-
+http://sirena.mare7.co:80/live/veliero/240223/51996.mp4
 
  #EXTINF:-1 tvg-id="" tvg-name="PRIMAFILA 1 FHD" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8y87VNGOMHKoqAukTeUWUMESPuc.jpg" group-title="Primafila",PRIMAFILA 1 FHD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
