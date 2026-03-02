@@ -502,7 +502,7 @@ http://sirena.mare7.co:80/live/veliero/240223/698.ts
  #EXTINF:-1 tvg-id="NickJr.it" tvg-name="NickJunior" tvg-logo="http://bs-update.ddns.net/Android/logos/nickjunior.png" group-title="Ragazzi",NickJunior
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 http://sirena.mare7.co:80/live/veliero/240223/103.ts
- #EXTINF:-1 tvg-id="K2.it" tvg-name="K2" tvg-logo="http://bs-update.ddns.net/Android/logos/k2.png" group-title="Ragazzi",K2.ts
+ #EXTINF:-1 tvg-id="K2.it" tvg-name="K2" tvg-logo="http://bs-update.ddns.net/Android/logos/k2.png" group-title="Ragazzi",K2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 http://sirena.mare7.co:80/live/veliero/240223/639.ts
 
