@@ -380,7 +380,7 @@ http://sirena.mare7.co:80/live/veliero/240223/49731.ts
  #EXTINF:-1 tvg-id="SkyUno.it" tvg-name="Caccia e Pesca" tvg-logo="http://service.myvisio.life:80/images/e21914b1a2fe7ac745a5a035fad28c32.png" group-title="Documentari",Caccia e Pesca
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 http://sirena.mare7.co:80/live/veliero/240223/98.ts
- #EXTINF:-1 tvg-id="" tvg-name="Caccia e Pesca +1" tvg-logo="http://service.fullapple.me:8000/images/e21914b1a2fe7ac745a5a035fad28c32.png" group-title="Documentari",Caccia e Pesca +1.ts
+ #EXTINF:-1 tvg-id="" tvg-name="Caccia e Pesca +1" tvg-logo="http://service.fullapple.me:8000/images/e21914b1a2fe7ac745a5a035fad28c32.png" group-title="Documentari",Caccia e Pesca +1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 http://sirena.mare7.co:80/live/veliero/240223/9044.ts
  #EXTINF:-1 tvg-id="Pesca.it" tvg-name="Pesca e Caccia" tvg-logo="http://service.myvisio.life:80/images/e9fb4d5b7e79bbfbf3d35d0f6a00cf3c.png" group-title="Documentari",Pesca e Caccia
