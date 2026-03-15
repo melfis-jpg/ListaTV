@@ -386,7 +386,7 @@ http://sirena.mare7.co:80/live/veliero/240223/9044.ts
  #EXTINF:-1 tvg-id="Pesca.it" tvg-name="Pesca e Caccia" tvg-logo="http://service.myvisio.life:80/images/e9fb4d5b7e79bbfbf3d35d0f6a00cf3c.png" group-title="Documentari",Pesca e Caccia
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 http://sirena.mare7.co:80/live/veliero/240223/99.ts
- #EXTINF:-1 tvg-id="CartoonNetwork.it" tvg-name="Pesca e Caccia +1" tvg-logo="http://service.fullapple.me:8000/images/e9fb4d5b7e79bbfbf3d35d0f6a00cf3c.png" group-title="Documentari",Pesca e Caccia +1.ts
+ #EXTINF:-1 tvg-id="CartoonNetwork.it" tvg-name="Pesca e Caccia +1" tvg-logo="http://service.fullapple.me:8000/images/e9fb4d5b7e79bbfbf3d35d0f6a00cf3c.png" group-title="Documentari",Pesca e Caccia +1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 http://sirena.mare7.co:80/live/veliero/240223/9043.ts
  #EXTINF:-1 tvg-id="ItalianFishingTv.it" tvg-name="Italian Fishing Tv" tvg-logo="http://service.myvisio.life:80/images/0509a55eed723c8ce05c042e075f65ff.png" group-title="Documentari",Italian Fishing Tv
