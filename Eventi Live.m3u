@@ -2,15 +2,15 @@
 
 #EXTINF:-1 tvg-id="SkySportUno.it" tvg-name="Sky Sport Uno" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-uno-it.png",Sky Sport Uno
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-http://drfast2.xyz/live/apagfro/sasy/29042.ts
+http://tvcc.uno:80/live/bassotto/909099/29042.ts
 
 #EXTINF:-1 tvg-id="SkySportCalcio.it" tvg-name="Sky Sport Calcio" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-calcio-it.png",Sky Sport Calcio
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-http://drfast2.xyz/live/apagfro/sasy/185825.ts
+http://tvcc.uno:80/live/bassotto/909099/185825.ts
 
 #EXTINF:-1 tvg-id="Inter.SerieA" tvg-name="Inter" tvg-logo="http://service.myvisio.life:80/images/7ec8336709bf8a8d71d0ffff69127903.png",Inter
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-http://drfast2.xyz/live/apagfro/sasy/218906.ts
+http://tvcc.uno:80/live/bassotto/909099/218906.ts
 
 #EXTINF:-1 tvg-id="DAZNZona.it" tvg-name="Zona Dazn Serie A" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/zona-dazn-it.png",Zona Dazn Serie A
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
