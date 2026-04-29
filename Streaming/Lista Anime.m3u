@@ -1,4 +1,4 @@
-#EXTM3U
+#EXTM3U type="vod"
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/melfis-jpg/ListaTV/refs/heads/main/Streaming/Loghi%20Anime/Hero%20Without%20a%20Class%20Who%20Even%20Needs%20Skills.jpg" group-title="Hero Without a Class: Who Even Needs Skills?!",Episodio 1 - Verdetto di assenza di classe
 https://srv30.sake.streampeaker.org/DDL/ANIME/MushokuNoEiyuu/MushokuNoEiyuu_Ep_01_SUB_ITA.mp4
